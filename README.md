@@ -1,6 +1,15 @@
 #awesome-github
 
 更好地使用GitHub
+###  目录
+- [教程](#教程)
+- [文章](#文章)
+- [网站](#网站)
+- [工具](#工具)
+- [项目](#项目)
+    - [demo](#demo)
+    - [项目](#项目)
+    - [库](#库)
 
 ###教程
 
@@ -16,31 +25,21 @@
 	
 ###文章
  * [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html) - 本文尝试谈谈GitHub的文化、技巧与影响
-
  * [GitHub连击500天：让理想的编程成为习惯](https://www.phodal.com/blog/github-500-program-as-usual/) - phodal对于GitHub的看法
 
 ###网站
  * [GitHub Rank (China)](http://githubrank.com/) - GitHub上中国程序员的排名网站，根据follower
- 
  * [GitHub Ranking | GitHub Awards](http://github-awards.com/) - GitHub上程序员的排名网站，根据star
-
  * [GitHuber.info](http://githuber.info/) - 最好用的GitHub人才挖掘工具
-  
- * [GitHub Ranking](https://github-ranking.com/) - GitHub用户和仓库排名，根据star，不区分语言
-    
- * [Code Review](http://reviewcode.cn/) - 利用GitHub进行codereview的网站
- 
-    
+ * [GitHub Ranking](https://github-ranking.com/) - GitHub用户和仓库排名，根据star，不区分语言 
+ * [Code Review](http://reviewcode.cn/) - 利用GitHub进行codereview的网站   
  * [GitHub Resume](http://resume.github.io/) - 根据GitHub的信息生成简历
 
 
 
 ###工具
  * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - GitBucket iOS App，一个GitHub第三方客户端
-
-
  * [Monkey](https://github.com/coderyi/Monkey) - Monkey是一个GitHub第三方iOS客户端，主要是用来展示GitHub上的开发者的排名，以及仓库的排名。
-
  * [githot](https://github.com/andyiac/githot) - GitHot是一个Android App,用来发现世界上最流行的项目和人
 
 ###项目
@@ -50,7 +49,6 @@
 ####项目
 ####库
  * [octokit](https://github.com/octokit) - GitHub API的官方封装库
- 
  * [UAGithubEngine](https://github.com/owainhunt/uagithubengine) - Objective-C的GitHub API封装库
 
 
