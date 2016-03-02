@@ -6,19 +6,10 @@
 
  * [GitHub 秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) - 本书为 Github 中级教程，适用在 Github 上做开源项目、制作自己的博客和协同做项目的开发者。
  * [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md) - 作为一名开发者，Github上面有很多东西值得关注学习，可是刚刚接触github，怎样一步步学习使用Github？怎样更高效的利用Github？
-
-
  * [GitHub 开发指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-developer-guides/) - 本指南的目的是教会你如何实际运用 Github API，本指南是 GitHub 官方文档 Development Guides 的中文翻译版本。
-
-
  * [GitHub Pages 指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-pages-basics/) - 本指南是 GitHub Pages 官网 GitHub Pages Basics 的中文翻译版本。
-
-
-
-
  * [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程！
  * [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 助你入门 git 的简明指南，木有高深内容 ;)
-
  * [怎样使用 GitHub？](https://www.zhihu.com/question/20070065) - 知乎问题
 
 
