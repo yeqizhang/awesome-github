@@ -4,14 +4,10 @@
 - [教程](#教程)
     - [通用教程](#通用教程)
     - [Git使用](#git使用)
-
     - [GitHub Pages](#github-pages)
     - [GitBook](#gitbook)
     - [GitHub API](#github-api)
     - [Travis CI](#travis-ci)
-
-
-
 - [文章](#文章)
 - [网站](#网站)
 - [工具](#工具)
@@ -47,7 +43,6 @@
 ####GitHub Pages
  * [GitHub Pages 指南](http://jekyllcn.com/) - 官方文档翻译版
  * [jekyll官方文档中文翻译版](http://jekyllcn.com/) - 将纯文本转换为静态博客网站
-
  * [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
 ](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html) - 示范如何在github上搭建Blog，你可以从中掌握github的Pages功能，以及Jekyll软件的基本用法。更重要的是，你会体会到一种建立网站的全新思路。
  * [免费使用Jekyll+Github Page搭建博客入门攻略](http://www.cellier.me/2015/01/04/jekyll%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/) - Jekyll建站
