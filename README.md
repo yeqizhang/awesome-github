@@ -1,7 +1,13 @@
-﻿#awesome-github
+#awesome-github
 收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
 ###  目录
 - [教程](#教程)
+    - [通用教程](#通用教程)
+    - [Git使用](#git使用)
+
+    - [GitHub Pages](#github-pages)
+    - [GitBook](#gitbook)
+
 - [文章](#文章)
 - [网站](#网站)
 - [工具](#工具)
@@ -11,6 +17,7 @@
     - [库](#库)
 
 ###教程
+####通用教程
 
  * [GitHub 秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) - 本书为 Github 中级教程，适用在 Github 上做开源项目、制作自己的博客和协同做项目的开发者。
  * [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md) - 作为一名开发者，Github上面有很多东西值得关注学习，可是刚刚接触github，怎样一步步学习使用Github？怎样更高效的利用Github？
@@ -24,15 +31,33 @@
  * [gotgithub](http://www.worldhello.net/gotgithub/index.html) - 一本关于使用GitHub的书
  * [GitHub 漫游指南](https://github.com/phodal/github-roam) - phodal的GitHub故事与教程
  * [Github MarkDown语法指南](https://github.com/guodongxiaren/README) - 使用Github必备
+ * [git/github guide](http://kbroman.org/github_tutorial/) - 使用Git和GitHub的知道
+####Git使用
 
- 	
+####GitHub Pages
+ * [jekyll官方文档中文翻译版](http://jekyllcn.com/) - 将纯文本转换为静态博客网站
+
+ * [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
+](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html) - 示范如何在github上搭建Blog，你可以从中掌握github的Pages功能，以及Jekyll软件的基本用法。更重要的是，你会体会到一种建立网站的全新思路。
+ * [免费使用Jekyll+Github Page搭建博客入门攻略](http://www.cellier.me/2015/01/04/jekyll%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/) - Jekyll建站
+ * [hexo你的博客](http://ibruce.info/2013/11/22/hexo-your-blog/) - hexo出自台湾大学生[tommy351](https://twitter.com/tommy351)之手，是一个基于Node.js的静态博客程序，其编译上百篇文字只需要几秒。
+ * [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2) - 这是一篇很详尽的独立博客搭建教程，里面介绍了域名注册、DNS设置、github和Hexo设置等过程。
+
+ 
+
+
+
+
+####GitBook
+
+
 ###文章
  * [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html) - 本文尝试谈谈GitHub的文化、技巧与影响
  * [GitHub连击500天：让理想的编程成为习惯](https://www.phodal.com/blog/github-500-program-as-usual/) - phodal对于GitHub的看法
  * [Github装逼指南——Travis CI 和 Codecov](https://segmentfault.com/a/1190000004415437) - 关于持续集成和统计单测覆盖率
  * [如何用Github去管理你的Idea](http://zhuanlan.zhihu.com/phodal/20442311) - 用Github的README.md和Issues来管理我的idea
  * [GitHub开源项目负责人谈开源](http://www.infoq.com/cn/news/2015/10/GitHub-OpenSource) - Brandon就其与开源的缘分、当前工作的职责、GitHub及员工与开源的关系等方面的问题一一进行了回答。
- * [亲爱的GitHub](https://github.com/dear-github/dear-github) - 致GitHub的一封公开信[用github issues作为blog的例子](https://github.com/lifesinger/blog/labels/blog)
+ * [亲爱的GitHub](https://github.com/dear-github/dear-github) - 致GitHub的一封公开信
  * [用Github issues作为blog的例子](https://github.com/lifesinger/blog/labels/blog)
 
 ###网站
@@ -61,7 +86,6 @@
 ####项目
  * [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - 黑色的GitHub网站风格
  * [github-gists](https://github.com/kevva/github-gists) - 拿到一个GitHub用户的所有gist
- * [github-gists](https://github.com/kevva/github-gists) - 拿到一个GitHub用户的所有gist
  * [Get-Your-GitHub-Card](https://github.com/codesboy/Get-Your-GitHub-Card) - 基于jquery拿到你的GitHub用户资料
  * [ohmyrepo](https://github.com/no13bus/ohmyrepo) - 一个 GitHub 仓库分析工具
  
@@ -69,6 +93,7 @@
  * [octokit](https://github.com/octokit) - GitHub API的官方封装库
  * [UAGithubEngine](https://github.com/owainhunt/uagithubengine) - Objective-C的GitHub API封装库
  * [RxGitHubAPI](https://github.com/FengDeng/RxGitHubAPI) -基于RxSwift的GitHub API封装库
+ * [GitHub API for Java](http://github-api.kohsuke.org/) -面向对象的GitHub API
 
 
 
