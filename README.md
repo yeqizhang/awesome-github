@@ -22,6 +22,7 @@
  * [gitignore](https://github.com/github/gitignore) - GitHub官方的.gitignore模板集合
  * [gotgithub](http://www.worldhello.net/gotgithub/index.html) - 一本关于使用GitHub的书
  * [GitHub 漫游指南](https://github.com/phodal/github-roam) - phodal的GitHub故事与教程
+ * [Github MarkDown语法指南](https://github.com/guodongxiaren/README)
 
  	
 ###文章
