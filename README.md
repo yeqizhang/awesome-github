@@ -23,6 +23,7 @@
  * [《Github 帮助文档》 中文翻译](https://github.com/waylau/github-help) - 包含了官方文档以及其他文章
  * [GitHub 秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) - 本书为 Github 中级教程，适用在 Github 上做开源项目、制作自己的博客和协同做项目的开发者。
  * [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md) - 作为一名开发者，Github上面有很多东西值得关注学习，可是刚刚接触github，怎样一步步学习使用Github？怎样更高效的利用Github？
+ * [GotGitHub](http://www.worldhello.net/gotgithub/index.html) - 全面介绍 GitHub 网站的书
  * [GitHub 开发指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-developer-guides/) - 本指南的目的是教会你如何实际运用 Github API，本指南是 GitHub 官方文档 Development Guides 的中文翻译版本。
  * [GitHub Pages 指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-pages-basics/) - 本指南是 GitHub Pages 官网 GitHub Pages Basics 的中文翻译版本。
  * [怎样使用 GitHub？](https://www.zhihu.com/question/20070065) - 知乎问题
@@ -95,11 +96,12 @@
 
 
 ###工具
- * [http://shields.io/](http://shields.io/) -开源项目的徽章
+ * [http://shields.io/](http://shields.io/) - 开源项目的徽章
  * [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具
  * [Hexo](https://github.com/hexojs/hexo) - 通过Github Pages写博客的Node.js框架，
  * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - GitBucket iOS App，一个GitHub第三方客户端
  * [Monkey](https://github.com/coderyi/Monkey) - Monkey是一个GitHub第三方iOS客户端，主要是用来展示GitHub上的开发者的排名，以及仓库的排名。
+ * [react-native-gitfeed](https://github.com/AntBranch/awesome-github.git) - 一个React Native写的Github客户端，支持iOS和Android
  * [githot](https://github.com/andyiac/githot) - GitHot是一个Android App,用来发现世界上最流行的项目和人
  * [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub是C#写的，它是iOS设备上最好的GitHub仓库浏览和维护工具。
  * [ioctocat](https://github.com/dennisreimann/ioctocat) - GitHub的iOS客户端
