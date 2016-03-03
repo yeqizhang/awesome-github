@@ -10,13 +10,14 @@
     - [Travis CI](#travis-ci)
 - [文章](#文章)
 - [网站](#网站)
+	- [常用网站](#常用网站)
  	- [GitHub Rank](#github-rank)
 	- [Star管理](#Star管理)
 - [工具](#工具)
 - [项目](#项目)
-    - [demo](#demo)
     - [项目](#项目)
     - [库](#库)
+    - [demo](#demo)
 - [其他的awesome](#其他的awesome)
 
 
@@ -44,6 +45,11 @@
  * [Git Submodule使用完整教程](http://www.kafeitu.me/git/2012/03/27/git-submodule.html) - Git Submodule功能刚刚开始学习可能觉得有点怪异，所以本教程把每一步的操作的命令和结果都用代码的形式展现给大家，以便更好的理解。
  * [Git权威指南](http://www.worldhello.net/gotgit/) - 书
  * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - git-flow 是一个 git 扩展集，按 Vincent Driessen 的分支模型提供高层次的库操作。
+ * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) -stanford出品
+ * [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository/) - atlassian出品
+ * [Try Git ( Interactive)](https://try.github.io/levels/1/challenges/1) -互动性的教你使用git
+ * [Git (简体中文)](https://wiki.archlinux.org/index.php/Git_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)) -archlinux出品
+ * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html) -这本书汇聚了Git社区的很多精华,  其目的就是帮助你尽快的掌握Git.
 
 
 ####GitHub Pages
@@ -54,6 +60,8 @@
  * [免费使用Jekyll+Github Page搭建博客入门攻略](http://www.cellier.me/2015/01/04/jekyll%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/) - Jekyll建站
  * [hexo你的博客](http://ibruce.info/2013/11/22/hexo-your-blog/) - hexo出自台湾大学生[tommy351](https://twitter.com/tommy351)之手，是一个基于Node.js的静态博客程序，其编译上百篇文字只需要几秒。
  * [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2) - 这是一篇很详尽的独立博客搭建教程，里面介绍了域名注册、DNS设置、github和Hexo设置等过程。
+ * [Hexo 中文版](https://hexo.io/zh-cn/) - hexo官网中文版
+ * [像 geek 一样写博客](http://wiki.jikexueyuan.com/project/github-page/) - 结合了Octopress
 
  
 
@@ -63,6 +71,9 @@
 ####GitBook
  * [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html) - 本教程主要围绕 GitBook 的安装，使用，集成，书籍发布，个性化以及实用插件几个方面。
  * [Gitbook 入门教程](https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书,且示例全部在windows下展示(其他系统差不多一致):
+ * [Git教学](https://kingofamani.gitbooks.io/git-teach/content/index.html) - GIT版本控制
+
+
 
 ####GitHub API
  * [How to Use Github’s API with PHP](http://www.sitepoint.com/use-githubs-api-php/) -通过PHP如何使用GitHub API
@@ -84,9 +95,13 @@
  * [2014年GitHub 中国开发者年度报告](http://githuber.info/report) - 使用python分析数据后的报告
  * [Gist介绍与用法](http://platinhom.github.io/2015/11/26/gist/) - Gist https://gist.github.com/ 是Github的一个子服务
  * [最活跃的GitHub用户](https://gist.github.com/paulmillr/2657075/) - 想看最活跃用户可以看这里
-
-
+ * [10+ HELPFUL GITHUB HACKS TO IMMEDIATELY BOOST YOUR PRODUCTIVITY](http://usersnap.com/blog/github-hacks-productivity/) - 10个立即提高你生产力的GitHub技能
+ * [Top 10 Git Tutorials for Beginners](http://sixrevisions.com/resources/git-tutorials-beginners/) -教你使用git最好的10本书
+ * [使用GitHub进行团队合作](http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/) - 译文
 ###网站
+
+####常用网站
+
  * [GitHub Trending](https://github.com/trending) - GitHub官方的仓库和开发者流行榜
  * [GitHuber.info](http://githuber.info/) - 最好用的GitHub人才挖掘工具
  * [Code Review](http://reviewcode.cn/) - 利用GitHub进行codereview的网站   
@@ -94,6 +109,7 @@
  * [GitBook](https://www.gitbook.com/) - Github上写书，发布到GitBook
 
 ####GitHub Rank
+
  * [GitHub Rank (China)](http://githubrank.com/) - GitHub上中国程序员的排名网站，根据follower
  * [GitHub Ranking | GitHub Awards](http://github-awards.com/) - GitHub上程序员的排名网站，根据star
  * [GitHub Ranking](https://github-ranking.com/) - GitHub用户和仓库排名，根据star，不区分语言 
@@ -122,11 +138,17 @@
  * [napcat](https://itunes.apple.com/cn/app/napcat-github-client-for-open/id606238223?mt=8) - 一个比较全面的GitHub的iOS客户端
  * [RepoStumble](https://github.com/thedillonb/RepoStumble) - 查看GitHub仓库的手机客户端
  * [GithubTrends](https://github.com/laowch/GithubTrends) - Material Design风格的查看GitHub仓库trending app
- 
+ * [octotree](https://github.com/buunguyen/octotree) -浏览器扩展，树状格式显示GitHub的代码
+ * [octo-linker](https://github.com/octo-linker/chrome-extension) - 这款谷歌 Chrome 扩展允许您轻松地浏览 GitHub.com 上的文件和包。
+ * [ShowInGitHub](https://github.com/larsxschneider/ShowInGitHub) - Xcode插件，打开选中行的GitHub提交页面
+ * [Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) - 有关GitHub的Xcode插件
+ * [github-sublime-theme](https://github.com/AlexanderEkdahl/github-sublime-theme) - GitHub Sublime 主题
+ * [GitHubinator](https://github.com/ehamiter/GitHubinator) - sublime插件，显示选中文本上的远程GitHub仓库
+
+
 ###项目
 
 
-####demo
 
 ####项目
 
@@ -147,6 +169,7 @@
  * [GitHub API for Java](http://github-api.kohsuke.org/) -面向对象的GitHub API
  * [GitHubObjC](https://github.com/ernstsson/GitHubObjC) -Objective-C实现的GitHub API
 
+####demo
 
 ###其他的awesome
 
