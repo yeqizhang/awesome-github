@@ -1,5 +1,5 @@
-#awesome-github
-收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
+#[awesome-github](https://github.com/AntBranch/awesome-github)
+收集这个[awesome-github](https://github.com/AntBranch/awesome-github)列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
 ###  目录
 - [教程](#教程)
     - [通用教程](#通用教程)
@@ -15,6 +15,8 @@
     - [demo](#demo)
     - [项目](#项目)
     - [库](#库)
+- [其他的awesome](#其他的awesome)
+
 
 ###教程
 ####通用教程
@@ -124,6 +126,18 @@
  * [RxGitHubAPI](https://github.com/FengDeng/RxGitHubAPI) -基于RxSwift的GitHub API封装库
  * [GitHub API for Java](http://github-api.kohsuke.org/) -面向对象的GitHub API
  * [GitHubObjC](https://github.com/ernstsson/GitHubObjC) -Objective-C实现的GitHub API
+
+
+###其他的awesome
+
+ * [awesome-github](https://github.com/phillipadsmith/awesome-github) -[phillipadsmith](https://github.com/phillipadsmith)的awesome-github
+
+ * [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) -GitHub浏览器扩展收集列表
+ * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) -一些酷酷的Git和GitHub功能收集
+
+
+
+
 
 
 
