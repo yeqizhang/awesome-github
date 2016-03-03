@@ -17,7 +17,6 @@
 - [项目](#项目)
     - [项目](#项目)
     - [库](#库)
-    - [demo](#demo)
 - [其他的awesome](#其他的awesome)
 
 
@@ -187,7 +186,6 @@
  * [go-github](https://github.com/google/go-github) -Go实现的GitHub API库
  * [ruby-github](https://github.com/peter-murach/github) -Ruby实现的GitHub API库
 
-####demo
 
 ###其他的awesome
 
