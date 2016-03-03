@@ -10,6 +10,8 @@
     - [Travis CI](#travis-ci)
 - [文章](#文章)
 - [网站](#网站)
+ 	- [GitHub Rank](#github-rank)
+	- [Star管理](#Star管理)
 - [工具](#工具)
 - [项目](#项目)
     - [demo](#demo)
@@ -32,7 +34,7 @@
  * [GitHub 漫游指南](https://github.com/phodal/github-roam) - phodal的GitHub故事与教程
  * [Github MarkDown语法指南](https://github.com/guodongxiaren/README) - 使用Github必备
  * [git/github guide](http://kbroman.org/github_tutorial/) - 使用Git和GitHub的知道
- * [ 如何编辑 Wiki](https://github.com/g0v/dev/wiki/%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF-Wiki) - 非常好的GitHub Wiki使用教程
+ * [如何编辑 Wiki](https://github.com/g0v/dev/wiki/%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF-Wiki) - 非常好的GitHub Wiki使用教程
  
 ####Git使用
 
@@ -81,19 +83,32 @@
  * [用Github issues作为blog的例子](https://github.com/lifesinger/blog/labels/blog)
  * [2014年GitHub 中国开发者年度报告](http://githuber.info/report) - 使用python分析数据后的报告
  * [Gist介绍与用法](http://platinhom.github.io/2015/11/26/gist/) - Gist https://gist.github.com/ 是Github的一个子服务
+ * [最活跃的GitHub用户](https://gist.github.com/paulmillr/2657075/) - 想看最活跃用户可以看这里
+
 
 ###网站
  * [GitHub Trending](https://github.com/trending) - GitHub官方的仓库和开发者流行榜
- * [GitHub Rank (China)](http://githubrank.com/) - GitHub上中国程序员的排名网站，根据follower
- * [GitHub Ranking | GitHub Awards](http://github-awards.com/) - GitHub上程序员的排名网站，根据star
  * [GitHuber.info](http://githuber.info/) - 最好用的GitHub人才挖掘工具
- * [GitHub Ranking](https://github-ranking.com/) - GitHub用户和仓库排名，根据star，不区分语言 
  * [Code Review](http://reviewcode.cn/) - 利用GitHub进行codereview的网站   
  * [GitHub Resume](http://resume.github.io/) - 根据GitHub的信息生成简历
  * [GitBook](https://www.gitbook.com/) - Github上写书，发布到GitBook
 
+####GitHub Rank
+ * [GitHub Rank (China)](http://githubrank.com/) - GitHub上中国程序员的排名网站，根据follower
+ * [GitHub Ranking | GitHub Awards](http://github-awards.com/) - GitHub上程序员的排名网站，根据star
+ * [GitHub Ranking](https://github-ranking.com/) - GitHub用户和仓库排名，根据star，不区分语言 
 
 
+####Star管理
+
+ 
+ 
+ * [My Git Star](http://mygitstar.herokuapp.com/) - My Git Star 是一个开源项目，旨在提供个人 Github Star 管理服务，目前部署在 [Heroku](https://heroku.com/) 之上，由 [@Sidong](https://github.com/Sidong) 维护。
+ * [GitRep](https://www.gitrep.com/) - 国外免费网站，目前打算试用。就像官网介绍的那样，不仅能管理star还能发现
+ * [Astral](http://astralapp.com/) - 功能更加简洁。感觉不方便的地方就是需要先添加tag，才能给项目添加tag。
+ * [CODELF](http://unbug.github.io/codelf/) - 基于Google Lovefiled，简洁快速，从开发者角度考虑，用完就走，不给开发者更多的管理负担。开源在GitHub上的链接[unbug/codelf](https://github.com/unbug/codelf)
+ * [gitconstellation](http://gitconstellation.com/#/) - GitHub star 管理
+ 
 ###工具
  * [http://shields.io/](http://shields.io/) - 开源项目的徽章
  * [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具
@@ -112,12 +127,16 @@
 
 
 ####demo
+
 ####项目
+
  * [github-trending](https://github.com/josephyzhou/github-trending) - 记录下GitHub历史上的每日trending
  * [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - 黑色的GitHub网站风格
  * [github-gists](https://github.com/kevva/github-gists) - 拿到一个GitHub用户的所有gist
  * [Get-Your-GitHub-Card](https://github.com/codesboy/Get-Your-GitHub-Card) - 基于jquery拿到你的GitHub用户资料
  * [ohmyrepo](https://github.com/no13bus/ohmyrepo) - 一个 GitHub 仓库分析工具
+ * [greenhat](https://github.com/4148/greenhat) - 一个让GitHub全绿的“旁门左道”的东西。
+ * [gitfiti](https://github.com/gelstudios/gitfiti) - 滥用github提交历史
  
 ####库
  * [octokit](https://github.com/octokit) - GitHub API的官方封装库
@@ -132,7 +151,6 @@
 ###其他的awesome
 
  * [awesome-github](https://github.com/phillipadsmith/awesome-github) -[phillipadsmith](https://github.com/phillipadsmith)的awesome-github
-
  * [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) -GitHub浏览器扩展收集列表
  * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) -一些酷酷的Git和GitHub功能收集
 
