@@ -170,10 +170,10 @@
  * [gitfiti](https://github.com/gelstudios/gitfiti) - 滥用github提交历史
  * [Github-profile-name-writer](https://github.com/ironmaniiith/Github-profile-name-writer) - 把github提交历史变成你的名字
  * [github-corners](https://github.com/tholman/github-corners) - 显示 "Fork me on GitHub" 
-  * [GitHub-jQuery-Repo-Widget](https://github.com/JoelSutherland/GitHub-jQuery-Repo-Widget) - 一个GitHub风格的挂件，方便在页面中展示GitHub项目
-  * [GitHub Archive](https://github.com/igrigorik/githubarchive.org) - GitHub Archive 是一个记录GitHub时间线的项目
-  * [github-cards](https://github.com/lepture/github-cards) - GitHub Cards 用来展示你的简介
-  * [githut](https://github.com/littleark/githut) - 可视化了GitHub Archive的数据，网站链接，[http://githut.info/](http://githut.info/)
+ * [GitHub-jQuery-Repo-Widget](https://github.com/JoelSutherland/GitHub-jQuery-Repo-Widget) - 一个GitHub风格的挂件，方便在页面中展示GitHub项目
+ * [GitHub Archive](https://github.com/igrigorik/githubarchive.org) - GitHub Archive 是一个记录GitHub时间线的项目
+ * [github-cards](https://github.com/lepture/github-cards) - GitHub Cards 用来展示你的简介
+ * [githut](https://github.com/littleark/githut) - 可视化了GitHub Archive的数据，网站链接，[http://githut.info/](http://githut.info/)
   
 ####库
 
