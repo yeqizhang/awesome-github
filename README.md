@@ -141,10 +141,13 @@
  * [GithubTrends](https://github.com/laowch/GithubTrends) - Material Design风格的查看GitHub仓库trending app
  * [octotree](https://github.com/buunguyen/octotree) -浏览器扩展，树状格式显示GitHub的代码
  * [octo-linker](https://github.com/octo-linker/chrome-extension) - 这款谷歌 Chrome 扩展允许您轻松地浏览 GitHub.com 上的文件和包。
+ * [git-draw](https://github.com/ben174/git-draw) - 谷歌 Chrome 扩展，给GitHub提交历史画个画
  * [ShowInGitHub](https://github.com/larsxschneider/ShowInGitHub) - Xcode插件，打开选中行的GitHub提交页面
  * [Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) - 有关GitHub的Xcode插件
  * [github-sublime-theme](https://github.com/AlexanderEkdahl/github-sublime-theme) - GitHub Sublime 主题
  * [GitHubinator](https://github.com/ehamiter/GitHubinator) - sublime插件，显示选中文本上的远程GitHub仓库
+ * [octicons](https://github.com/github/octicons) - GitHub的 图标字体
+ * [markdown-editor](https://github.com/jbt/markdown-editor) - GitHub味道的markdown编辑器
 
 ###项目
 
@@ -159,7 +162,9 @@
  * [ohmyrepo](https://github.com/no13bus/ohmyrepo) - 一个 GitHub 仓库分析工具
  * [greenhat](https://github.com/4148/greenhat) - 一个让GitHub全绿的“旁门左道”的东西。
  * [gitfiti](https://github.com/gelstudios/gitfiti) - 滥用github提交历史
- * [GitHub-jQuery-Repo-Widget](https://github.com/xiaoluoboding/GitHub-jQuery-Repo-Widget) - 一个GitHub风格的挂件，方便在页面中展示GitHub项目
+ * [Github-profile-name-writer](https://github.com/ironmaniiith/Github-profile-name-writer) - 把github提交历史变成你的名字
+ * [github-corners](https://github.com/tholman/github-corners) - 显示 "Fork me on GitHub" 
+  * [GitHub-jQuery-Repo-Widget](https://github.com/JoelSutherland/GitHub-jQuery-Repo-Widget) - 一个GitHub风格的挂件，方便在页面中展示GitHub项目
 
 ####库
  * [octokit](https://github.com/octokit) - GitHub API的官方封装库
@@ -167,8 +172,9 @@
  * [PyGithub](https://github.com/PyGithub/PyGithub) - Python的GitHub API封装库
  * [UAGithubEngine](https://github.com/owainhunt/uagithubengine) - Objective-C的GitHub API封装库
  * [RxGitHubAPI](https://github.com/FengDeng/RxGitHubAPI) -基于RxSwift的GitHub API封装库
- * [GitHub API for Java](http://github-api.kohsuke.org/) -面向对象的GitHub API
- * [GitHubObjC](https://github.com/ernstsson/GitHubObjC) -Objective-C实现的GitHub API
+ * [GitHub API for Java](http://github-api.kohsuke.org/) -面向对象的GitHub API库
+ * [GitHubObjC](https://github.com/ernstsson/GitHubObjC) -Objective-C实现的GitHub API库
+ * [go-github](https://github.com/google/go-github) -Go实现的GitHub API库
 
 ####demo
 
