@@ -29,7 +29,6 @@
  * [怎样使用 GitHub？](https://www.zhihu.com/question/20070065) - 知乎问题
  * [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)
  * [gitignore](https://github.com/github/gitignore) - GitHub官方的.gitignore模板集合
- * [gotgithub](http://www.worldhello.net/gotgithub/index.html) - 一本关于使用GitHub的书
  * [GitHub 漫游指南](https://github.com/phodal/github-roam) - phodal的GitHub故事与教程
  * [Github MarkDown语法指南](https://github.com/guodongxiaren/README) - 使用Github必备
  * [git/github guide](http://kbroman.org/github_tutorial/) - 使用Git和GitHub的知道
@@ -101,7 +100,7 @@
  * [Hexo](https://github.com/hexojs/hexo) - 通过Github Pages写博客的Node.js框架，
  * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - GitBucket iOS App，一个GitHub第三方客户端
  * [Monkey](https://github.com/coderyi/Monkey) - Monkey是一个GitHub第三方iOS客户端，主要是用来展示GitHub上的开发者的排名，以及仓库的排名。
- * [react-native-gitfeed](https://github.com/AntBranch/awesome-github.git) - 一个React Native写的Github客户端，支持iOS和Android
+ * [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - 一个React Native写的Github客户端，支持iOS和Android
  * [githot](https://github.com/andyiac/githot) - GitHot是一个Android App,用来发现世界上最流行的项目和人
  * [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub是C#写的，它是iOS设备上最好的GitHub仓库浏览和维护工具。
  * [ioctocat](https://github.com/dennisreimann/ioctocat) - GitHub的iOS客户端
