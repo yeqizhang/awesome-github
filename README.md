@@ -36,7 +36,7 @@
  * [Github MarkDown语法指南](https://github.com/guodongxiaren/README) - 使用Github必备
  * [git/github guide](http://kbroman.org/github_tutorial/) - 使用Git和GitHub的知道
  * [如何编辑 Wiki](https://github.com/g0v/dev/wiki/%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF-Wiki) - 非常好的GitHub Wiki使用教程
- 
+
 ####Git使用
 
  * [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程！
@@ -63,7 +63,7 @@
  * [Hexo 中文版](https://hexo.io/zh-cn/) - hexo官网中文版
  * [像 geek 一样写博客](http://wiki.jikexueyuan.com/project/github-page/) - 结合了Octopress
 
- 
+
 
 
 
@@ -82,7 +82,7 @@
 ####Travis CI
  * [为 iOS 建立 Travis CI](http://objccn.io/issue-6-5/) -在这篇文章中，我将向你展示如何一步步的在项目中集成 Travis。
  * [Travis Ci的最接底气的中文使用教程](http://www.jianshu.com/p/8308b8f08de9) -Travis Ci的中文文档太少了，于是作者写了一篇简洁的教程
- 
+
 ###文章
 
  * [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html) - 本文尝试谈谈GitHub的文化、技巧与影响
@@ -112,19 +112,19 @@
 
  * [GitHub Rank (China)](http://githubrank.com/) - GitHub上中国程序员的排名网站，根据follower
  * [GitHub Ranking | GitHub Awards](http://github-awards.com/) - GitHub上程序员的排名网站，根据star
- * [GitHub Ranking](https://github-ranking.com/) - GitHub用户和仓库排名，根据star，不区分语言 
+ * [GitHub Ranking](https://github-ranking.com/) - GitHub用户和仓库排名，根据star，不区分语言
 
 
 ####Star管理
 
- 
- 
+
+
  * [My Git Star](http://mygitstar.herokuapp.com/) - My Git Star 是一个开源项目，旨在提供个人 Github Star 管理服务，目前部署在 [Heroku](https://heroku.com/) 之上，由 [@Sidong](https://github.com/Sidong) 维护。
  * [GitRep](https://www.gitrep.com/) - 国外免费网站，目前打算试用。就像官网介绍的那样，不仅能管理star还能发现
  * [Astral](http://astralapp.com/) - 功能更加简洁。感觉不方便的地方就是需要先添加tag，才能给项目添加tag。
  * [CODELF](http://unbug.github.io/codelf/) - 基于Google Lovefiled，简洁快速，从开发者角度考虑，用完就走，不给开发者更多的管理负担。开源在GitHub上的链接[unbug/codelf](https://github.com/unbug/codelf)
  * [gitconstellation](http://gitconstellation.com/#/) - GitHub star 管理
- 
+
 ###工具
  * [http://shields.io/](http://shields.io/) - 开源项目的徽章
  * [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具
@@ -145,7 +145,6 @@
  * [github-sublime-theme](https://github.com/AlexanderEkdahl/github-sublime-theme) - GitHub Sublime 主题
  * [GitHubinator](https://github.com/ehamiter/GitHubinator) - sublime插件，显示选中文本上的远程GitHub仓库
 
-
 ###项目
 
 
@@ -159,7 +158,8 @@
  * [ohmyrepo](https://github.com/no13bus/ohmyrepo) - 一个 GitHub 仓库分析工具
  * [greenhat](https://github.com/4148/greenhat) - 一个让GitHub全绿的“旁门左道”的东西。
  * [gitfiti](https://github.com/gelstudios/gitfiti) - 滥用github提交历史
- 
+ * [GitHub-jQuery-Repo-Widget](https://github.com/xiaoluoboding/GitHub-jQuery-Repo-Widget) - 一个GitHub风格的挂件，方便在页面中展示GitHub项目
+
 ####库
  * [octokit](https://github.com/octokit) - GitHub API的官方封装库
  * [github - michael](https://github.com/michael/github) - JavaScript写的GitHub API的封装库
@@ -176,11 +176,3 @@
  * [awesome-github](https://github.com/phillipadsmith/awesome-github) -[phillipadsmith](https://github.com/phillipadsmith)的awesome-github
  * [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) -GitHub浏览器扩展收集列表
  * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) -一些酷酷的Git和GitHub功能收集
-
-
-
-
-
-
-
-
