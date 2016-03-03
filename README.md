@@ -22,7 +22,9 @@
 
 
 ###教程
+
 ####通用教程
+
  * [《Github 帮助文档》 中文翻译](https://github.com/waylau/github-help) - 包含了官方文档以及其他文章
  * [GitHub 秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) - 本书为 Github 中级教程，适用在 Github 上做开源项目、制作自己的博客和协同做项目的开发者。
  * [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md) - 作为一名开发者，Github上面有很多东西值得关注学习，可是刚刚接触github，怎样一步步学习使用Github？怎样更高效的利用Github？
@@ -53,6 +55,7 @@
 
 
 ####GitHub Pages
+
  * [GitHub Pages 指南](http://jekyllcn.com/) - 官方文档翻译版
  * [jekyll官方文档中文翻译版](http://jekyllcn.com/) - 将纯文本转换为静态博客网站
  * [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
@@ -64,11 +67,8 @@
  * [像 geek 一样写博客](http://wiki.jikexueyuan.com/project/github-page/) - 结合了Octopress
 
 
-
-
-
-
 ####GitBook
+
  * [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html) - 本教程主要围绕 GitBook 的安装，使用，集成，书籍发布，个性化以及实用插件几个方面。
  * [Gitbook 入门教程](https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书,且示例全部在windows下展示(其他系统差不多一致):
  * [Git教学](https://kingofamani.gitbooks.io/git-teach/content/index.html) - GIT版本控制
@@ -76,10 +76,12 @@
 
 
 ####GitHub API
+
  * [How to Use Github’s API with PHP](http://www.sitepoint.com/use-githubs-api-php/) -通过PHP如何使用GitHub API
 
 
 ####Travis CI
+
  * [为 iOS 建立 Travis CI](http://objccn.io/issue-6-5/) -在这篇文章中，我将向你展示如何一步步的在项目中集成 Travis。
  * [Travis Ci的最接底气的中文使用教程](http://www.jianshu.com/p/8308b8f08de9) -Travis Ci的中文文档太少了，于是作者写了一篇简洁的教程
 
@@ -91,6 +93,7 @@
  * [如何用Github去管理你的Idea](http://zhuanlan.zhihu.com/phodal/20442311) - 用Github的README.md和Issues来管理我的idea
  * [GitHub开源项目负责人谈开源](http://www.infoq.com/cn/news/2015/10/GitHub-OpenSource) - Brandon就其与开源的缘分、当前工作的职责、GitHub及员工与开源的关系等方面的问题一一进行了回答。
  * [亲爱的GitHub](https://github.com/dear-github/dear-github) - 致GitHub的一封公开信
+ * [thank-you-github](https://github.com/thank-you-github/thank-you-github) - 一封从GitHub毕业的公开信
  * [用Github issues作为blog的例子](https://github.com/lifesinger/blog/labels/blog)
  * [2014年GitHub 中国开发者年度报告](http://githuber.info/report) - 使用python分析数据后的报告
  * [Gist介绍与用法](http://platinhom.github.io/2015/11/26/gist/) - Gist https://gist.github.com/ 是Github的一个子服务
@@ -119,7 +122,6 @@
 ####Star管理
 
 
-
  * [My Git Star](http://mygitstar.herokuapp.com/) - My Git Star 是一个开源项目，旨在提供个人 Github Star 管理服务，目前部署在 [Heroku](https://heroku.com/) 之上，由 [@Sidong](https://github.com/Sidong) 维护。
  * [GitRep](https://www.gitrep.com/) - 国外免费网站，目前打算试用。就像官网介绍的那样，不仅能管理star还能发现
  * [Astral](http://astralapp.com/) - 功能更加简洁。感觉不方便的地方就是需要先添加tag，才能给项目添加tag。
@@ -127,6 +129,7 @@
  * [gitconstellation](http://gitconstellation.com/#/) - GitHub star 管理
 
 ###工具
+
  * [http://shields.io/](http://shields.io/) - 开源项目的徽章
  * [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具
  * [Hexo](https://github.com/hexojs/hexo) - 通过Github Pages写博客的Node.js框架，
@@ -148,9 +151,12 @@
  * [GitHubinator](https://github.com/ehamiter/GitHubinator) - sublime插件，显示选中文本上的远程GitHub仓库
  * [octicons](https://github.com/github/octicons) - GitHub的 图标字体
  * [markdown-editor](https://github.com/jbt/markdown-editor) - GitHub味道的markdown编辑器
+ * [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - Alfred 2上使用GitHub命令
+ * [github-gmail](https://github.com/muan/github-gmail) - 在Gmail内快速打开GitHub的通知
+ * [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - OS X状态栏的APP，帮你记住你在GitHub每天的贡献
+
 
 ###项目
-
 
 
 ####项目
@@ -165,8 +171,12 @@
  * [Github-profile-name-writer](https://github.com/ironmaniiith/Github-profile-name-writer) - 把github提交历史变成你的名字
  * [github-corners](https://github.com/tholman/github-corners) - 显示 "Fork me on GitHub" 
   * [GitHub-jQuery-Repo-Widget](https://github.com/JoelSutherland/GitHub-jQuery-Repo-Widget) - 一个GitHub风格的挂件，方便在页面中展示GitHub项目
-
+  * [GitHub Archive](https://github.com/igrigorik/githubarchive.org) - GitHub Archive 是一个记录GitHub时间线的项目
+  * [github-cards](https://github.com/lepture/github-cards) - GitHub Cards 用来展示你的简介
+  * [githut](https://github.com/littleark/githut) - 可视化了GitHub Archive的数据，网站链接，[http://githut.info/](http://githut.info/)
+  
 ####库
+
  * [octokit](https://github.com/octokit) - GitHub API的官方封装库
  * [github - michael](https://github.com/michael/github) - JavaScript写的GitHub API的封装库
  * [PyGithub](https://github.com/PyGithub/PyGithub) - Python的GitHub API封装库
@@ -175,6 +185,7 @@
  * [GitHub API for Java](http://github-api.kohsuke.org/) -面向对象的GitHub API库
  * [GitHubObjC](https://github.com/ernstsson/GitHubObjC) -Objective-C实现的GitHub API库
  * [go-github](https://github.com/google/go-github) -Go实现的GitHub API库
+ * [ruby-github](https://github.com/peter-murach/github) -Ruby实现的GitHub API库
 
 ####demo
 
