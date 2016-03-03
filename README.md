@@ -31,7 +31,9 @@
  * [Github MarkDown语法指南](https://github.com/guodongxiaren/README) - 使用Github必备
  * [git/github guide](http://kbroman.org/github_tutorial/) - 使用Git和GitHub的知道
  * [ 如何编辑 Wiki](https://github.com/g0v/dev/wiki/%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF-Wiki) - 非常好的GitHub Wiki使用教程
+ 
 ####Git使用
+
  * [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程！
  * [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 助你入门 git 的简明指南，木有高深内容 ;)
  * [Pro Git（中文版）](https://git.oschina.net/progit/) - 书
