@@ -113,6 +113,7 @@
  * [如何参与一个GitHub开源项目？](http://www.csdn.net/article/2014-04-14/2819293-Contributing-to-Open-Source-on-GitHub) - 本文是Github官方给出的参与Github上开源项目的一些指导，对希望加入开源社区的开发者是一个不错的参考。
  * [试译：开源项目成功的十条准则](http://www.zhuangbiaowei.com/blog/?cat=31) -作者将自己30年来的开发经验，总结为开源软件的十条成功法则。
  * [漫谈Github与开源](http://www.wdk.pw/802.html) -本文作者为大二在读Geek学生关于GitHub与开源的理解。
+ 
 ###网站
 
 ####常用网站
@@ -123,6 +124,7 @@
  * [GitHub Resume](http://resume.github.io/) - 根据GitHub的信息生成简历
  * [GitBook](https://www.gitbook.com/) - Github上写书，发布到GitBook
  * [choose a license](http://choosealicense.com/) - GitHub发布了choosealicense.com网站，在呼吁开源项目开发者选择一个许可证的同时，还提供了许可证的一些简要说明。
+ 
 ####GitHub Rank
 
  * [GitHub Rank (China)](http://githubrank.com/) - GitHub上中国程序员的排名网站，根据follower
