@@ -37,6 +37,9 @@
  * [Github MarkDown语法指南](https://github.com/guodongxiaren/README) - 使用Github必备
  * [git/github guide](http://kbroman.org/github_tutorial/) - 使用Git和GitHub的知道
  * [如何编辑 Wiki](https://github.com/g0v/dev/wiki/%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF-Wiki) - 非常好的GitHub Wiki使用教程
+ * [如何在GitHub上为开源项目做贡献？](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github) - 14 小节课教你如何使用 GitHub，并为开源项目做贡献。
+ * [GitHub Pull Request Tutorial
+](https://www.thinkful.com/learn/github-pull-request-tutorial/) - 学习提交你的第一个pr
 
 ####Git使用
 
@@ -51,7 +54,9 @@
  * [Try Git ( Interactive)](https://try.github.io/levels/1/challenges/1) -互动性的教你使用git
  * [Git (简体中文)](https://wiki.archlinux.org/index.php/Git_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)) -archlinux出品
  * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html) -这本书汇聚了Git社区的很多精华,  其目的就是帮助你尽快的掌握Git.
-
+ * [git-recipes](https://github.com/geeeeeeeeek/git-recipes) -高质量的Git中文教程，来自国外社区的优秀文章和个人实践
+ * [git-it](http://jlord.us/git-it/) - GitHub一位女员工写的Git教程，繁体中文版在这里可以找到: http://jlord.us/git-it/index-zhtw.html
+ * [Git Town](http://www.git-town.com/) - GitTown 定义了很多高级的 git 命令，例如 git ship / git sync 等以方便 git 的使用
 
 ####GitHub Pages
 
@@ -100,7 +105,9 @@
  * [10+ HELPFUL GITHUB HACKS TO IMMEDIATELY BOOST YOUR PRODUCTIVITY](http://usersnap.com/blog/github-hacks-productivity/) - 10个立即提高你生产力的GitHub技能
  * [Top 10 Git Tutorials for Beginners](http://sixrevisions.com/resources/git-tutorials-beginners/) -教你使用git最好的10本书
  * [使用GitHub进行团队合作](http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/) - 译文
- 
+ * [一键收藏至Github](http://www.jianshu.com/p/19d2f3a3b5d8) - 通过 Rails 收藏文章，并自动提交至 github。
+ * [Github Hacking](http://www.jianshu.com/p/d6b54f1d60f1) - Github的各种黑客技能
+
 ###网站
 
 ####常用网站
@@ -143,6 +150,7 @@
  * [GithubTrends](https://github.com/laowch/GithubTrends) - Material Design风格的查看GitHub仓库trending app
  * [octotree](https://github.com/buunguyen/octotree) -浏览器扩展，树状格式显示GitHub的代码
  * [octo-linker](https://github.com/octo-linker/chrome-extension) - 这款谷歌 Chrome 扩展允许您轻松地浏览 GitHub.com 上的文件和包。
+ * [github-menu-back](https://github.com/summerblue/github-menu-back) - 一款修改 GitHub 导航栏为之前状态的 Chrome 插件
  * [git-draw](https://github.com/ben174/git-draw) - 谷歌 Chrome 扩展，给GitHub提交历史画个画
  * [ShowInGitHub](https://github.com/larsxschneider/ShowInGitHub) - Xcode插件，打开选中行的GitHub提交页面
  * [Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) - 有关GitHub的Xcode插件
@@ -171,12 +179,13 @@
  * [greenhat](https://github.com/4148/greenhat) - 一个让GitHub全绿的“旁门左道”的东西。
  * [gitfiti](https://github.com/gelstudios/gitfiti) - 滥用github提交历史
  * [Github-profile-name-writer](https://github.com/ironmaniiith/Github-profile-name-writer) - 把github提交历史变成你的名字
+ * [github-contributions](https://github.com/IonicaBizau/github-contributions) - 可以让你的 github 提交日历排出有趣的图案
  * [github-corners](https://github.com/tholman/github-corners) - 显示 "Fork me on GitHub" 
  * [GitHub-jQuery-Repo-Widget](https://github.com/JoelSutherland/GitHub-jQuery-Repo-Widget) - 一个GitHub风格的挂件，方便在页面中展示GitHub项目
  * [GitHub Archive](https://github.com/igrigorik/githubarchive.org) - GitHub Archive 是一个记录GitHub时间线的项目
  * [github-cards](https://github.com/lepture/github-cards) - GitHub Cards 用来展示你的简介
  * [githut](https://github.com/littleark/githut) - 可视化了GitHub Archive的数据，网站链接，[http://githut.info/](http://githut.info/)
-  
+ * [lolcommits](https://github.com/mroth/lolcommits) - 每次提交Git都自拍一张  
 ####库
 
  * [octokit](https://github.com/octokit) - GitHub API的官方封装库
