@@ -193,7 +193,7 @@
  * [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) -GitHub浏览器扩展收集列表
  * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) -一些酷酷的Git和GitHub功能收集
  
-# Contributing
+### Contributing
 贡献指引请看 [CONTRIBUTING](CONTRIBUTING.md).
 
 
