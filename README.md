@@ -192,3 +192,15 @@
  * [awesome-github](https://github.com/phillipadsmith/awesome-github) -[phillipadsmith](https://github.com/phillipadsmith)的awesome-github
  * [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) -GitHub浏览器扩展收集列表
  * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) -一些酷酷的Git和GitHub功能收集
+
+
+###License
+![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+
+
+文章版权采用[CC Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/) 中文：[署名-非商业性使用协议](http://creativecommons.org/licenses/by-nc/3.0/cn/
+).
+
+awesome-github 是[coderyi](https://github.com/coderyi)创建的，现在由他和AntBranch组织维护,也欢迎每一个人加入进来. 
+
+谢谢所有的[贡献者](https://github.com/AntBranch/awesome-github/graphs/contributors).
