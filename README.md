@@ -47,6 +47,7 @@
  * [GitHub Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial/) - 学习提交你的第一个pr
  * [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 开放文档：《借助开源项目，学习软件开发》
  * [open_source_analysis](https://github.com/zhuangbiaowei/open_source_analysis) -借助openhub.net分析开源项目，列举了开源历史上那些的成功项目
+ * [《GitHub入门与实践》](https://book.douban.com/subject/26462816/) -本书从Git的基本知识和操作方法入手，详细介绍了GitHub的各种功能，GitHub与其他工具或服务的协作，使用GitHub的开发流程以及如何将GitHub引入到企业中。在讲解GitHub的代表功能Pull Request时，本书专门搭建了供各位读者实践的仓库，邀请各位读者进行Pull Request并共同维护。
 
 
 ####Git使用
@@ -118,6 +119,7 @@
  * [如何参与一个GitHub开源项目？](http://www.csdn.net/article/2014-04-14/2819293-Contributing-to-Open-Source-on-GitHub) - 本文是Github官方给出的参与Github上开源项目的一些指导，对希望加入开源社区的开发者是一个不错的参考。
  * [试译：开源项目成功的十条准则](http://www.zhuangbiaowei.com/blog/?cat=31) -作者将自己30年来的开发经验，总结为开源软件的十条成功法则。
  * [漫谈Github与开源](http://www.wdk.pw/802.html) -本文作者为大二在读Geek学生关于GitHub与开源的理解。
+ * [Github上都有哪些有用但不为大家熟知的小功能？](https://www.zhihu.com/question/36974348) - 知乎问题
  
 ###网站
 
