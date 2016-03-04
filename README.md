@@ -119,8 +119,9 @@
  * [如何参与一个GitHub开源项目？](http://www.csdn.net/article/2014-04-14/2819293-Contributing-to-Open-Source-on-GitHub) - 本文是Github官方给出的参与Github上开源项目的一些指导，对希望加入开源社区的开发者是一个不错的参考。
  * [试译：开源项目成功的十条准则](http://www.zhuangbiaowei.com/blog/?cat=31) -作者将自己30年来的开发经验，总结为开源软件的十条成功法则。
  * [漫谈Github与开源](http://www.wdk.pw/802.html) -本文作者为大二在读Geek学生关于GitHub与开源的理解。
+ * [关于Pull Request的十个建议](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/) -作者Mark Seemann
  * [Github上都有哪些有用但不为大家熟知的小功能？](https://www.zhihu.com/question/36974348) - 知乎问题
- 
+
 ###网站
 
 ####常用网站
