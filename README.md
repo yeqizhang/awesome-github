@@ -25,6 +25,7 @@
 ####通用教程
 
  * [《Github 帮助文档》 中文翻译](https://github.com/waylau/github-help) - 包含了官方文档以及其他文章
+ * [GitHub Guides](https://guides.github.com/) - 官方的GitHub使用指引
  * [GitHub 秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) - 本书为 Github 中级教程，适用在 Github 上做开源项目、制作自己的博客和协同做项目的开发者。
  * [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md) - 作为一名开发者，Github上面有很多东西值得关注学习，可是刚刚接触github，怎样一步步学习使用Github？怎样更高效的利用Github？
  * [GotGitHub](http://www.worldhello.net/gotgithub/index.html) - 全面介绍 GitHub 网站的书
@@ -38,8 +39,10 @@
  * [git/github guide](http://kbroman.org/github_tutorial/) - 使用Git和GitHub的知道
  * [如何编辑 Wiki](https://github.com/g0v/dev/wiki/%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF-Wiki) - 非常好的GitHub Wiki使用教程
  * [如何在GitHub上为开源项目做贡献？](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github) - 14 小节课教你如何使用 GitHub，并为开源项目做贡献。
- * [GitHub Pull Request Tutorial
-](https://www.thinkful.com/learn/github-pull-request-tutorial/) - 学习提交你的第一个pr
+ * [GitHub Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial/) - 学习提交你的第一个pr
+ * [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 开放文档：《借助开源项目，学习软件开发》
+ * [open_source_analysis](https://github.com/zhuangbiaowei/open_source_analysis) -借助openhub.net分析开源项目，列举了开源历史上那些的成功项目
+
 
 ####Git使用
 
@@ -107,6 +110,8 @@
  * [使用GitHub进行团队合作](http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/) - 译文
  * [一键收藏至Github](http://www.jianshu.com/p/19d2f3a3b5d8) - 通过 Rails 收藏文章，并自动提交至 github。
  * [Github Hacking](http://www.jianshu.com/p/d6b54f1d60f1) - Github的各种黑客技能
+ * [如何参与一个GitHub开源项目？](http://www.csdn.net/article/2014-04-14/2819293-Contributing-to-Open-Source-on-GitHub) - 本文是Github官方给出的参与Github上开源项目的一些指导，对希望加入开源社区的开发者是一个不错的参考。
+ * [试译：开源项目成功的十条准则](http://www.zhuangbiaowei.com/blog/?cat=31) -作者将自己30年来的开发经验，总结为开源软件的十条成功法则。
 
 ###网站
 
@@ -117,7 +122,7 @@
  * [Code Review](http://reviewcode.cn/) - 利用GitHub进行codereview的网站   
  * [GitHub Resume](http://resume.github.io/) - 根据GitHub的信息生成简历
  * [GitBook](https://www.gitbook.com/) - Github上写书，发布到GitBook
-
+ * [choose a license](http://choosealicense.com/) - GitHub发布了choosealicense.com网站，在呼吁开源项目开发者选择一个许可证的同时，还提供了许可证的一些简要说明。
 ####GitHub Rank
 
  * [GitHub Rank (China)](http://githubrank.com/) - GitHub上中国程序员的排名网站，根据follower
