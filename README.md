@@ -12,8 +12,13 @@
 - [网站](#网站)
 	- [常用网站](#常用网站)
  	- [GitHub Rank](#github-rank)
-	- [Star管理](#Star管理)
+	- [Star管理](#star管理)
 - [工具](#工具)
+	- [常用工具](#常用工具)
+	- [桌面工具](#桌面工具)
+	- [App](#app)
+	- [插件](#插件)
+	- [命令行](#命令行)
 - [项目](#项目)
     - [项目](#项目)
     - [库](#库)
@@ -143,10 +148,28 @@
 
 ###工具
 
+####常用工具
+
  * [http://shields.io/](http://shields.io/) - 开源项目的徽章
  * [Classroom for GitHub](https://github.com/education/classroom) - Classroom for GitHub 可以自动创建代码仓库和访问控制，可以让老师很方便的在 GitHub 上发布代码任务和收集作业。
  * [Hexo](https://github.com/hexojs/hexo) - 通过Github Pages写博客的Node.js框架
+ * [octicons](https://github.com/github/octicons) - GitHub的 图标字体
+ * [markdown-editor](https://github.com/jbt/markdown-editor) - GitHub味道的markdown编辑器
+ * [backup-utils](https://github.com/github/backup-utils) - backup-utils 是 Github 企业备份工具，它包括一些备份和恢复工具。这些备份工具实现了多项用于备份主机的高级功能，还原功能也已经包括在 GitHub Enterprise 中。
+ * [gistblog](https://github.com/jazzychad/gistblog) -gistblog 是一个简单的 Node.js 应用，使用 Github 的认证系统和 gist 提供的后台存储来实现博客的功能。可使用 Markdown 编写博客。
+ * [openspace](https://github.com/EverythingMe/openspace) -Openspace 是一个用来将你在 Github 上的项目汇总显示在一个网页里的应用。
+ * [primer](https://github.com/primer/primer) -Primer 是 Github 工具包，用于 Github 前端设计。
+ 
+####桌面工具
+
  * [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具
+ * [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - OS X状态栏的APP，帮你记住你在GitHub每天的贡献
+ * [githubtrending](http://www.githubtrending.com/) - OS X状态栏的APP，显示GitHub Trending，也有iOS端
+ * [ghstatus](https://itunes.apple.com/cn/app/ghstatus/id883585153?mt=12) - OS X状态栏的APP，显示GitHub Status
+ * [pophub](http://questbe.at/pophub/) - OS X状态栏的APP，显示GitHub 的activities
+ 
+####App
+
  * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - GitBucket iOS App，一个GitHub第三方客户端
  * [Monkey](https://github.com/coderyi/Monkey) - Monkey是一个GitHub第三方iOS客户端，主要是用来展示GitHub上的开发者的排名，以及仓库的排名。
  * [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - 一个React Native写的Github客户端，支持iOS和Android
@@ -156,7 +179,10 @@
  * [napcat](https://itunes.apple.com/cn/app/napcat-github-client-for-open/id606238223?mt=8) - 一个比较全面的GitHub的iOS客户端
  * [RepoStumble](https://github.com/thedillonb/RepoStumble) - 查看GitHub仓库的手机客户端
  * [GithubTrends](https://github.com/laowch/GithubTrends) - Material Design风格的查看GitHub仓库trending app
- * [ForkHub](https://github.com/jonan/ForkHub) - Androi平台的GitHub客户端
+ * [ForkHub](https://github.com/jonan/ForkHub) - Android平台的GitHub客户端
+ 
+####插件
+
  * [octotree](https://github.com/buunguyen/octotree) -浏览器扩展，树状格式显示GitHub的代码
  * [octo-linker](https://github.com/octo-linker/chrome-extension) - 这款谷歌 Chrome 扩展允许您轻松地浏览 GitHub.com 上的文件和包。
  * [github-hovercard](https://github.com/Justineo/github-hovercard) - GitHub Hovercard 是一个浏览器扩展，实现了展示用户在 Github 上信息的信息卡功能，支持 Firefox 和 Chrome 浏览器。
@@ -169,21 +195,14 @@
  * [Visual Studio](https://github.com/github/VisualStudio) - 有关GitHub的Visual Studio插件
  * [github-sublime-theme](https://github.com/AlexanderEkdahl/github-sublime-theme) - GitHub Sublime 主题
  * [GitHubinator](https://github.com/ehamiter/GitHubinator) - sublime插件，显示选中文本上的远程GitHub仓库
- * [octicons](https://github.com/github/octicons) - GitHub的 图标字体
- * [markdown-editor](https://github.com/jbt/markdown-editor) - GitHub味道的markdown编辑器
  * [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - Alfred 2上使用GitHub命令
+ * [ZenHub](https://github.com/ZenHubIO/support) -ZenHub 能优化你的 GitHub 工作流，是轻量级的 Chrome 浏览器插件。
  * [github-gmail](https://github.com/muan/github-gmail) - 在Gmail内快速打开GitHub的通知
- * [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - OS X状态栏的APP，帮你记住你在GitHub每天的贡献
- * [githubtrending](http://www.githubtrending.com/) - OS X状态栏的APP，显示GitHub Trending，也有iOS端
- * [ghstatus](https://itunes.apple.com/cn/app/ghstatus/id883585153?mt=12) - OS X状态栏的APP，显示GitHub Status
- * [pophub](http://questbe.at/pophub/) - OS X状态栏的APP，显示GitHub 的activities
- * [backup-utils](https://github.com/github/backup-utils) - backup-utils 是 Github 企业备份工具，它包括一些备份和恢复工具。这些备份工具实现了多项用于备份主机的高级功能，还原功能也已经包括在 GitHub Enterprise 中。
- * [gistblog](https://github.com/jazzychad/gistblog) -gistblog 是一个简单的 Node.js 应用，使用 Github 的认证系统和 gist 提供的后台存储来实现博客的功能。可使用 Markdown 编写博客。
- * [openspace](https://github.com/EverythingMe/openspace) -Openspace 是一个用来将你在 Github 上的项目汇总显示在一个网页里的应用。
- * [primer](https://github.com/primer/primer) -Primer 是 Github 工具包，用于 Github 前端设计。
+
+####命令行
+
  * [gh](https://github.com/jingweno/gh) -gh 是一个用 Go 语言开发的 Github 命令行客户端。
  * [node-gh](https://github.com/node-gh/gh) -Node GH 是基于 Node.js 编写的 Github 命令行工具。
- * [ZenHub](https://github.com/ZenHubIO/support) -ZenHub 能优化你的 GitHub 工作流，是轻量级的 Chrome 浏览器插件。
 
 
 
