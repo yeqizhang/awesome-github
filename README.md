@@ -154,6 +154,8 @@
  * [github-gmail](https://github.com/muan/github-gmail) - 在Gmail内快速打开GitHub的通知
  * [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - OS X状态栏的APP，帮你记住你在GitHub每天的贡献
  * [githubtrending](http://www.githubtrending.com/) - OS X状态栏的APP，显示GitHub Trending，也有iOS端
+ * [ghstatus](https://itunes.apple.com/cn/app/ghstatus/id883585153?mt=12) - OS X状态栏的APP，显示GitHub Status
+ * [pophub](http://questbe.at/pophub/) - OS X状态栏的APP，显示GitHub 的activities
 
 
 ###项目
