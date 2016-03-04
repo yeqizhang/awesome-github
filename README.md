@@ -201,6 +201,7 @@
  * [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - Alfred 2上使用GitHub命令
  * [ZenHub](https://github.com/ZenHubIO/support) -ZenHub 能优化你的 GitHub 工作流，是轻量级的 Chrome 浏览器插件。
  * [github-gmail](https://github.com/muan/github-gmail) - 在Gmail内快速打开GitHub的通知
+ * [chrome-github-avatars](https://github.com/anasnakawa/chrome-github-avatars) - 谷歌Chrome扩展，可以让你的GitHub主页显示用户的头像。
 
 ####命令行
 
