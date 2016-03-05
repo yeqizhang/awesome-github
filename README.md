@@ -54,6 +54,7 @@
 
  * [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程！
  * [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 助你入门 git 的简明指南，木有高深内容 ;)
+ * [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html) - 来自阮一峰的网络日志，列出了 Git 最常用的命令。
  * [Pro Git（中文版）](https://git.oschina.net/progit/) - 书
  * [Git Submodule使用完整教程](http://www.kafeitu.me/git/2012/03/27/git-submodule.html) - Git Submodule功能刚刚开始学习可能觉得有点怪异，所以本教程把每一步的操作的命令和结果都用代码的形式展现给大家，以便更好的理解。
  * [Git权威指南](http://www.worldhello.net/gotgit/) - 书
