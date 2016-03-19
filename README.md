@@ -251,7 +251,7 @@
  * [githut](https://github.com/littleark/githut) - 可视化了GitHub Archive的数据，网站链接，[http://githut.info/](http://githut.info/)
  * [lolcommits](https://github.com/mroth/lolcommits) - 每次提交Git都自拍一张 
  * [github-selfies](https://github.com/thieman/github-selfies) - Github Selfies 可以在你 Github 的需求和贡献上加上你的自拍照。
-
+ * [badges](https://github.com/boennemann/badges) - 收集GitHub上readme页显示的与javascript有关的各种徽章
   
  
 ####库
