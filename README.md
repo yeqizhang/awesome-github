@@ -164,7 +164,8 @@
  * [gistblog](https://github.com/jazzychad/gistblog) -gistblog 是一个简单的 Node.js 应用，使用 Github 的认证系统和 gist 提供的后台存储来实现博客的功能。可使用 Markdown 编写博客。
  * [openspace](https://github.com/EverythingMe/openspace) -Openspace 是一个用来将你在 Github 上的项目汇总显示在一个网页里的应用。
  * [primer](https://github.com/primer/primer) -Primer 是 Github 工具包，用于 Github 前端设计。
- 
+ * [https://gitter.im](https://gitter.im) - 专门给GitHub开源项目或者开源作者提供的聊天软件
+
 ####桌面工具
 
  * [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具
