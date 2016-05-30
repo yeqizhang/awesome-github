@@ -223,6 +223,7 @@
 
  * [gh](https://github.com/jingweno/gh) -gh 是一个用 Go 语言开发的 Github 命令行客户端。
  * [node-gh](https://github.com/node-gh/gh) -Node GH 是基于 Node.js 编写的 Github 命令行工具。
+ * [gitsome](https://github.com/donnemartin/gitsome/) - supercharged Github Client
 
 
 
