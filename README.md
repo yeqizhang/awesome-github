@@ -48,7 +48,7 @@
  * [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 开放文档：《借助开源项目，学习软件开发》
  * [open_source_analysis](https://github.com/zhuangbiaowei/open_source_analysis) -借助openhub.net分析开源项目，列举了开源历史上那些的成功项目
  * [《GitHub入门与实践》](https://book.douban.com/subject/26462816/) -本书从Git的基本知识和操作方法入手，详细介绍了GitHub的各种功能，GitHub与其他工具或服务的协作，使用GitHub的开发流程以及如何将GitHub引入到企业中。在讲解GitHub的代表功能Pull Request时，本书专门搭建了供各位读者实践的仓库，邀请各位读者进行Pull Request并共同维护。
-
+ * [从0开始学习 GitHub 系列](http://stormzhang.com/github/2016/05/25/learn-github-from-zero1/) - stormzhang写的GitHub教程
 
 ####Git使用
 
@@ -254,7 +254,8 @@
  * [lolcommits](https://github.com/mroth/lolcommits) - 每次提交Git都自拍一张 
  * [github-selfies](https://github.com/thieman/github-selfies) - Github Selfies 可以在你 Github 的需求和贡献上加上你的自拍照。
  * [badges](https://github.com/boennemann/badges) - 收集GitHub上readme页显示的与javascript有关的各种徽章
-  
+ * [MediumArticles](http://www.jianshu.com/p/19d2f3a3b5d8) - 一键收藏至Github
+
  
 ####库
 
