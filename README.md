@@ -134,6 +134,8 @@
  * [GitHub Resume](http://resume.github.io/) - 根据GitHub的信息生成简历
  * [GitBook](https://www.gitbook.com/) - Github上写书，发布到GitBook
  * [choose a license](http://choosealicense.com/) - GitHub发布了choosealicense.com网站，在呼吁开源项目开发者选择一个许可证的同时，还提供了许可证的一些简要说明。
+ * [vmap.phodal.com](https://vmap.phodal.com/) - 基于GitHub的O2O应用，寻找身边的GitHub大牛，根据你填写的公司位置查找
+
  
 ####GitHub Rank
 
