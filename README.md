@@ -1,4 +1,6 @@
 #[awesome-github](https://github.com/AntBranch/awesome-github)
+[![Slack](https://antbr.herokuapp.com/badge.svg)](https://antbr.herokuapp.com/) 
+
 收集这个[awesome-github](https://github.com/AntBranch/awesome-github)列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
 ###  目录
 - [教程](#教程)
