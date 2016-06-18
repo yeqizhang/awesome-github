@@ -69,6 +69,8 @@
  * [git-recipes](https://github.com/geeeeeeeeek/git-recipes) -高质量的Git中文教程，来自国外社区的优秀文章和个人实践
  * [git-it](http://jlord.us/git-it/) - GitHub一位女员工写的Git教程，繁体中文版在这里可以找到: http://jlord.us/git-it/index-zhtw.html
  * [Git Town](http://www.git-town.com/) - GitTown 定义了很多高级的 git 命令，例如 git ship / git sync 等以方便 git 的使用
+ * [git-tips](https://github.com/git-tips/tips) - 最常用的Git的提示和技巧。
+
 
 ####GitHub Pages
 
