@@ -276,6 +276,8 @@
  * [GitHubObjC](https://github.com/ernstsson/GitHubObjC) -Objective-C实现的GitHub API库
  * [go-github](https://github.com/google/go-github) -Go实现的GitHub API库
  * [ruby-github](https://github.com/peter-murach/github) -Ruby实现的GitHub API库
+ * [libgit2](https://github.com/libgit2/libgit2) - Git核心库，通过它可以写一个自己的git应用。
+ * [Gift](https://github.com/modocache/Gift) - 通过Swift绑定libgit2，通过它你可以clone一个仓库，查看commit，提交等。
 
 
 ###其他的awesome
