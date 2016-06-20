@@ -193,7 +193,8 @@
  * [RepoStumble](https://github.com/thedillonb/RepoStumble) - 查看GitHub仓库的手机客户端
  * [GithubTrends](https://github.com/laowch/GithubTrends) - Material Design风格的查看GitHub仓库trending app
  * [ForkHub](https://github.com/jonan/ForkHub) - Android平台的GitHub客户端
- 
+ * [GitEgo](https://github.com/hrules6872/GitEgo) - Android平台的GitHub客户端
+
 ####插件
 
  * [octotree](https://github.com/buunguyen/octotree) -浏览器扩展，树状格式显示GitHub的代码
