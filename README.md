@@ -195,6 +195,7 @@
  * [GithubTrends](https://github.com/laowch/GithubTrends) - Material Design风格的查看GitHub仓库trending app
  * [ForkHub](https://github.com/jonan/ForkHub) - Android平台的GitHub客户端
  * [GitEgo](https://github.com/hrules6872/GitEgo) - Android平台的GitHub客户端
+ * [Sources](https://github.com/vulgur/Sources) - 一个极简的 Github 客户端，Sources。内置几十个语法高亮的主题可供选择。
 
 ####插件
 
