@@ -282,7 +282,10 @@
  * [libgit2](https://github.com/libgit2/libgit2) - Git核心库，通过它可以写一个自己的git应用。
  * [Gift](https://github.com/modocache/Gift) - 通过Swift绑定libgit2，通过它你可以clone一个仓库，查看commit，提交等。
  * [gitkit-js](https://github.com/SamyPesse/gitkit-js) - gitkit-js，SamyPesse开源的git的javascript实现，包含一系列API,可以管理git仓库，包括读文件，commit， clone，push，fetch等，可以工作在浏览器和node.js上
+ * [github3.py](https://github.com/sigmavirus24/github3.py) - GitHub API v3的python接口
+ * [PyGithub](https://github.com/PyGithub/PyGithub) - GitHub API v3的python接口
 
+ 
 ###其他的awesome
 
  * [awesome-github](https://github.com/phillipadsmith/awesome-github) -[phillipadsmith](https://github.com/phillipadsmith)的awesome-github
