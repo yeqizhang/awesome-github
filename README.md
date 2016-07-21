@@ -71,6 +71,7 @@
  * [git-it](http://jlord.us/git-it/) - GitHub一位女员工写的Git教程，繁体中文版在这里可以找到: http://jlord.us/git-it/index-zhtw.html
  * [Git Town](http://www.git-town.com/) - GitTown 定义了很多高级的 git 命令，例如 git ship / git sync 等以方便 git 的使用
  * [git-tips](https://github.com/git-tips/tips) - 最常用的Git的提示和技巧。
+ * [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe) - 这个命令行工具通过游戏的方式来练习你的 Git 技能
 
 
 ####GitHub Pages
@@ -266,6 +267,7 @@
  * [badges](https://github.com/boennemann/badges) - 收集GitHub上readme页显示的与javascript有关的各种徽章
  * [MediumArticles](http://www.jianshu.com/p/19d2f3a3b5d8) - 一键收藏至Github
  * [GitHunt](https://github.com/apollostack/GitHunt) - 为你喜欢的仓库投票的项目
+ * [githug](https://github.com/Gazler/githug) - 通过游戏的方式来联系Git的命令行工具
 
  
 ####库
