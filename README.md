@@ -265,6 +265,7 @@
  * [github-selfies](https://github.com/thieman/github-selfies) - Github Selfies 可以在你 Github 的需求和贡献上加上你的自拍照。
  * [badges](https://github.com/boennemann/badges) - 收集GitHub上readme页显示的与javascript有关的各种徽章
  * [MediumArticles](http://www.jianshu.com/p/19d2f3a3b5d8) - 一键收藏至Github
+ * [GitHunt](https://github.com/apollostack/GitHunt) - 为你喜欢的仓库投票的项目
 
  
 ####库
