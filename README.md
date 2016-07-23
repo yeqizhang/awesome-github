@@ -21,6 +21,7 @@
 	- [App](#app)
 	- [插件](#插件)
 	- [命令行](#命令行)
+	- [Git平台与工具](#git平台与工具)
 - [项目](#项目)
     - [项目](#项目)
     - [库](#库)
@@ -238,7 +239,12 @@
  * [node-gh](https://github.com/node-gh/gh) -Node GH 是基于 Node.js 编写的 Github 命令行工具。
  * [gitsome](https://github.com/donnemartin/gitsome/) - supercharged Github Client
 
+####Git平台与工具
 
+ * [sourcetree](https://www.atlassian.com/software/sourcetree) - Windows 和Mac OS X 下免费的 Git客户端
+ * [gitbucket](https://github.com/gitbucket/gitbucket) - Scala编写的开源Git平台，扩展性好，兼容GitHub
+ * [gogs](https://github.com/gogits/gogs) - Gogs (Go Git Service) 是一款极易搭建的自助 Git 服务，由[无闻](https://github.com/Unknwon)编写并开源在GitHub。
+ * [gitlab](https://about.gitlab.com/gitlab-com/) - GitLab 是一个用于仓库管理系统的开源项目，地址在[gitlabhq](https://github.com/gitlabhq/gitlabhq)
 
  
 
