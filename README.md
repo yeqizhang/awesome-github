@@ -232,6 +232,7 @@
  * [categoric](https://github.com/ozlerhakan/categoric) - 谷歌Chrome扩展，为你的通知分类
  * [octo-preview](https://github.com/DrewML/octo-preview) - 谷歌Chrome扩展，预览你评论的markdown内容
  * [GifHub](https://github.com/DrewML/GifHub) - 谷歌Chrome扩展，GifHub一个往GitHub评论里边插入Gif动画的Chrome插件
+ * [star-history-plugin](https://github.com/timqian/star-history-plugin) - 查看仓库star历史的插件
 
 ####命令行
 
