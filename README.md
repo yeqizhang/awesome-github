@@ -296,6 +296,7 @@
  * [gitkit-js](https://github.com/SamyPesse/gitkit-js) - gitkit-js，SamyPesse开源的git的javascript实现，包含一系列API,可以管理git仓库，包括读文件，commit， clone，push，fetch等，可以工作在浏览器和node.js上
  * [github3.py](https://github.com/sigmavirus24/github3.py) - GitHub API v3的python接口
  * [PyGithub](https://github.com/PyGithub/PyGithub) - GitHub API v3的python接口
+ * [github-backup](https://github.com/joeyh/github-backup) - 备份GitHub仓库，包括branches, tags, other forks, issues, comments, wikis, milestones, pull requests, watchers, and stars. 通过haskell编写
 
  
 ###其他的awesome
