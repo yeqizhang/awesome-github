@@ -246,7 +246,7 @@
  * [gitbucket](https://github.com/gitbucket/gitbucket) - Scala编写的开源Git平台，扩展性好，兼容GitHub
  * [gogs](https://github.com/gogits/gogs) - Gogs (Go Git Service) 是一款极易搭建的自助 Git 服务，由[无闻](https://github.com/Unknwon)编写并开源在GitHub。
  * [gitlab](https://about.gitlab.com/gitlab-com/) - GitLab 是一个用于仓库管理系统的开源项目，地址在[gitlabhq](https://github.com/gitlabhq/gitlabhq)
-
+ * [git-annex](https://github.com/joeyh/git-annex) - git管理大文件
  
 
 
@@ -297,6 +297,7 @@
  * [github3.py](https://github.com/sigmavirus24/github3.py) - GitHub API v3的python接口
  * [PyGithub](https://github.com/PyGithub/PyGithub) - GitHub API v3的python接口
  * [github-backup](https://github.com/joeyh/github-backup) - 备份GitHub仓库，包括branches, tags, other forks, issues, comments, wikis, milestones, pull requests, watchers, and stars. 通过haskell编写
+ * [github - Haskell](https://github.com/PyGithub/PyGithub) - GitHub API 的Haskell接口
 
  
 ###其他的awesome
