@@ -73,7 +73,7 @@
  * [Git Town](http://www.git-town.com/) - GitTown 定义了很多高级的 git 命令，例如 git ship / git sync 等以方便 git 的使用
  * [git-tips](https://github.com/git-tips/tips) - 最常用的Git的提示和技巧。
  * [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe) - 这个命令行工具通过游戏的方式来练习你的 Git 技能
-
+ * [progit2-zh](https://github.com/progit/progit2-zh) - Pro Git，第二版，简体中文
 
 ####GitHub Pages
 
@@ -177,6 +177,7 @@
  * [primer](https://github.com/primer/primer) -Primer 是 Github 工具包，用于 Github 前端设计。
  * [https://gitter.im](https://gitter.im) - 专门给GitHub开源项目或者开源作者提供的聊天软件
  * [boennemann - badges](https://github.com/boennemann/badges) - 各种徽章
+ * [GitTorrent](https://github.com/cjb/GitTorrent)
 
 ####桌面工具
 
@@ -239,9 +240,12 @@
  * [gh](https://github.com/jingweno/gh) -gh 是一个用 Go 语言开发的 Github 命令行客户端。
  * [node-gh](https://github.com/node-gh/gh) -Node GH 是基于 Node.js 编写的 Github 命令行工具。
  * [gitsome](https://github.com/donnemartin/gitsome/) - supercharged Github Client
+ * [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - 吐槽别人的烂代码
+
+
 
 ####Git平台与工具
-
+ * [git](https://github.com/git/git) - git源码
  * [sourcetree](https://www.atlassian.com/software/sourcetree) - Windows 和Mac OS X 下免费的 Git客户端
  * [gitbucket](https://github.com/gitbucket/gitbucket) - Scala编写的开源Git平台，扩展性好，兼容GitHub
  * [gogs](https://github.com/gogits/gogs) - Gogs (Go Git Service) 是一款极易搭建的自助 Git 服务，由[无闻](https://github.com/Unknwon)编写并开源在GitHub。
@@ -299,7 +303,9 @@
  * [PyGithub](https://github.com/PyGithub/PyGithub) - GitHub API v3的python接口
  * [github-backup](https://github.com/joeyh/github-backup) - 备份GitHub仓库，包括branches, tags, other forks, issues, comments, wikis, milestones, pull requests, watchers, and stars. 通过haskell编写
  * [github - Haskell](https://github.com/PyGithub/PyGithub) - GitHub API 的Haskell接口
-
+ * [objective-git](https://github.com/schacon/objective-git) - Git的Objective-C实现
+ * [node-gitlab](https://github.com/node-gitlab/node-gitlab) - gitlab的node api
+ * [php-github-api](https://github.com/KnpLabs/php-github-api) - php的github api
  
 ###其他的awesome
 
