@@ -247,6 +247,7 @@
  * [gogs](https://github.com/gogits/gogs) - Gogs (Go Git Service) 是一款极易搭建的自助 Git 服务，由[无闻](https://github.com/Unknwon)编写并开源在GitHub。
  * [gitlab](https://about.gitlab.com/gitlab-com/) - GitLab 是一个用于仓库管理系统的开源项目，地址在[gitlabhq](https://github.com/gitlabhq/gitlabhq)
  * [git-annex](https://github.com/joeyh/git-annex) - git管理大文件
+ * [gitx](https://github.com/pieter/gitx) - Mac平台上的Git GUI客户端
  
 
 
