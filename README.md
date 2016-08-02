@@ -201,6 +201,7 @@
  * [ForkHub](https://github.com/jonan/ForkHub) - Android平台的GitHub客户端
  * [GitEgo](https://github.com/hrules6872/GitEgo) - Android平台的GitHub客户端
  * [Sources](https://github.com/vulgur/Sources) - 一个极简的 Github 客户端，Sources。内置几十个语法高亮的主题可供选择。
+ * [igithub](https://github.com/schacon/igithub) - github 的iPhone端
 
 ####插件
 
@@ -241,7 +242,8 @@
  * [node-gh](https://github.com/node-gh/gh) -Node GH 是基于 Node.js 编写的 Github 命令行工具。
  * [gitsome](https://github.com/donnemartin/gitsome/) - supercharged Github Client
  * [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - 吐槽别人的烂代码
-
+ * [git-pulls](https://github.com/schacon/git-pulls) - github pull requests的命令后行工具
+ * [git-scribe](https://github.com/schacon/git-scribe) - 写电子书的命令行工具
 
 
 ####Git平台与工具
@@ -306,6 +308,12 @@
  * [objective-git](https://github.com/schacon/objective-git) - Git的Objective-C实现
  * [node-gitlab](https://github.com/node-gitlab/node-gitlab) - gitlab的node api
  * [php-github-api](https://github.com/KnpLabs/php-github-api) - php的github api
+ * [cocoagit](https://github.com/geoffgarside/cocoagit) - git的objetive-c实现
+ * [ruby-github](https://github.com/mbleigh/ruby-github) - mbleigh写的ruby的github api
+ * [Git.framework](https://github.com/geoffgarside/Git.framework) - mac os x 平台的objective-c的git实现
+ * [pygit2](https://github.com/libgit2/pygit2) - libgit2的python版
+ * [git.js](https://github.com/danlucraft/git.js) - git的js实现
+ * [nodegit](https://github.com/nodegit/nodegit) - git的node实现
  
 ###其他的awesome
 
