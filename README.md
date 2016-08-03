@@ -91,7 +91,7 @@
 ](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html) - 示范如何在github上搭建Blog，你可以从中掌握github的Pages功能，以及Jekyll软件的基本用法。更重要的是，你会体会到一种建立网站的全新思路。
  * [免费使用Jekyll+Github Page搭建博客入门攻略](http://www.cellier.me/2015/01/04/jekyll%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/) - Jekyll建站
  * [jekyll 学习资料整理](https://github.com/mba811/jekyll-study) - 在学习的同时将内容整理很多相关资料
- * [jekyll-style-guide](http://ben.balter.com/jekyll-style-guide/) -
+ * [jekyll-style-guide](http://ben.balter.com/jekyll-style-guide/) 
  * [hexo你的博客](http://ibruce.info/2013/11/22/hexo-your-blog/) - hexo出自台湾大学生[tommy351](https://twitter.com/tommy351)之手，是一个基于Node.js的静态博客程序，其编译上百篇文字只需要几秒。
  * [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2) - 这是一篇很详尽的独立博客搭建教程，里面介绍了域名注册、DNS设置、github和Hexo设置等过程。
  * [Hexo 中文版](https://hexo.io/zh-cn/) - hexo官网中文版
