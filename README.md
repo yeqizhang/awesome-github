@@ -53,9 +53,10 @@
  * [《GitHub入门与实践》](https://book.douban.com/subject/26462816/) -本书从Git的基本知识和操作方法入手，详细介绍了GitHub的各种功能，GitHub与其他工具或服务的协作，使用GitHub的开发流程以及如何将GitHub引入到企业中。在讲解GitHub的代表功能Pull Request时，本书专门搭建了供各位读者实践的仓库，邀请各位读者进行Pull Request并共同维护。
  * [从0开始学习 GitHub 系列](http://stormzhang.com/github/2016/05/25/learn-github-from-zero1/) - stormzhang写的GitHub教程
  * [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html) - 本秘籍收录了一些Git和Github非常酷同时又少有人知的功能。
-* [Git 进阶技巧](https://github.com/xhacker/GitProTips/blob/master/zh_CN.md) - 适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读。
-
-
+ * [github-guide](https://github.com/district10/github-guide) -  GitHub 使用指南
+ * [Git 北京](http://gitbeijing.com/) - 《 Git 北京》是一本带初学者学会 git 版本控制工具和 github.com 社交化编程平台的书。
+ * [Github与Git简明教程](https://github.com/lavor-zl/Github-Git) - lavor-zl 编写
+ 
 ####Git使用
 
  * [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程！
@@ -77,6 +78,7 @@
  * [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe) - 这个命令行工具通过游戏的方式来练习你的 Git 技能
  * [progit2-zh](https://github.com/progit/progit2-zh) - Pro Git，第二版，简体中文
  * [git-style-guide](https://github.com/agis-/git-style-guide)- git风格指南
+ * [Git 进阶技巧](https://github.com/xhacker/GitProTips/blob/master/zh_CN.md) - 适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读。
 
 
 ####GitHub Pages
@@ -97,6 +99,8 @@
  * [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html) - 本教程主要围绕 GitBook 的安装，使用，集成，书籍发布，个性化以及实用插件几个方面。
  * [Gitbook 入门教程](https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书,且示例全部在windows下展示(其他系统差不多一致):
  * [Git教学](https://kingofamani.gitbooks.io/git-teach/content/index.html) - GIT版本控制
+ * [Gitbook 使用入门](https://github.com/wwq0327/gitbook-zh) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书。
+
 
 
 
@@ -190,7 +194,8 @@
  * [githubtrending](http://www.githubtrending.com/) - OS X状态栏的APP，显示GitHub Trending，也有iOS端
  * [ghstatus](https://itunes.apple.com/cn/app/ghstatus/id883585153?mt=12) - OS X状态栏的APP，显示GitHub Status
  * [pophub](http://questbe.at/pophub/) - OS X状态栏的APP，显示GitHub 的activities
- 
+ * [git-dude](https://github.com/sickill/git-dude) - git commit通知
+
 ####App
 
  * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - GitBucket iOS App，一个GitHub第三方客户端
@@ -252,6 +257,7 @@
  * [Hudson-GIT-plugin](https://github.com/magnayn/Hudson-GIT-plugin) - Hudson上的GIT插件
  * [git-time-machine](https://github.com/littlebee/git-time-machine) - atom插件查看提交历史
  * [GitDiff](https://github.com/johnno1962/GitDiff) - Xcode插件
+ * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - git的vim 插件
 
  
 
@@ -316,13 +322,13 @@
  * [badges](https://github.com/boennemann/badges) - 收集GitHub上readme页显示的与javascript有关的各种徽章
  * [MediumArticles](http://www.jianshu.com/p/19d2f3a3b5d8) - 一键收藏至Github
  * [GitHunt](https://github.com/apollostack/GitHunt) - 为你喜欢的仓库投票的项目
- * [githug](https://github.com/Gazler/githug) - 通过游戏的方式来联系Git的命令行工具
+ * [githug](https://github.com/Gazler/githug) - 通过游戏的方式来练习Git的命令行工具
  * [css3-github-buttons](https://github.com/necolas/css3-github-buttons) - 帮助你创建github风格的 button
  * [git-crypt](https://github.com/AGWA/git-crypt) - git加密
  * [is-github-down](https://github.com/sindresorhus/is-github-down) - 检查github有没有down机
  * [miaopull](https://github.com/aquarhead/miaopull) - 自动化pull工具
  * [go-git](https://github.com/src-d/go-git)- 通过go来从git服务器读取仓库
-
+ * [GitViz](https://github.com/Readify/GitViz) - 帮助你训练git时的可视化工具
  
 ####库
 
