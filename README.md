@@ -244,14 +244,14 @@
  * [open-on-github](https://github.com/atom/open-on-github) - atom插件，打开文件在github.com
  * [refined-github](https://github.com/sindresorhus/refined-github) - chrome插件，简化你的github，增加了一些可用的功能
  * [gitpress](https://github.com/enricob/gitpress) - github的wordpress插件，用于列出用户的仓库
-* [jquery-github](https://github.com/zenorocha/jquery-github) -jquery的插件显示github仓库
-* [sublime-text-git](https://github.com/kemayo/sublime-text-git) - sublime的git插件
-* [git-plugin](https://github.com/jenkinsci/git-plugin) - jenkins的git插件
-* [github-oauth-plugin](https://github.com/jenkinsci/github-oauth-plugin) - jenkins的github oauth登录插件
-* [twitter-for-github](https://github.com/bevacqua/twitter-for-github) - 在github上显示用户twitter的chrome插件
-* [Hudson-GIT-plugin](https://github.com/magnayn/Hudson-GIT-plugin) - Hudson上的GIT插件
-* [git-time-machine](https://github.com/littlebee/git-time-machine) - atom插件查看提交历史
-* [GitDiff](https://github.com/johnno1962/GitDiff) - Xcode插件
+ * [jquery-github](https://github.com/zenorocha/jquery-github) -jquery的插件显示github仓库
+ * [sublime-text-git](https://github.com/kemayo/sublime-text-git) - sublime的git插件
+ * [git-plugin](https://github.com/jenkinsci/git-plugin) - jenkins的git插件
+ * [github-oauth-plugin](https://github.com/jenkinsci/github-oauth-plugin) - jenkins的github oauth登录插件
+ * [twitter-for-github](https://github.com/bevacqua/twitter-for-github) - 在github上显示用户twitter的chrome插件
+ * [Hudson-GIT-plugin](https://github.com/magnayn/Hudson-GIT-plugin) - Hudson上的GIT插件
+ * [git-time-machine](https://github.com/littlebee/git-time-machine) - atom插件查看提交历史
+ * [GitDiff](https://github.com/johnno1962/GitDiff) - Xcode插件
 
  
 
@@ -268,13 +268,13 @@
  * [ghterm](https://github.com/github-archive/ghterm) - github终端
  * [git-sh](https://github.com/rtomayko/git-sh) - 适合git的bash工作环境
  * [legit](https://github.com/kennethreitz/legit) - 灵感来自于github for mac的git 命令行工具
-* [git-sweep](https://github.com/arc90/git-sweep) - git命令行工具，帮助你清理已经merge到master的分支
-* [github-email](https://github.com/paulirish/github-email) - 获取用户的邮箱
-* [git-smart](https://github.com/geelen/git-smart) 
-* [git-subtree](https://github.com/apenwarr/git-subtree)
-* [git-town](https://github.com/Originate/git-town)
-* [git-fire](https://github.com/qw3rtman/git-fire) - 紧急情况下保存代码
-* [gitsome](https://github.com/donnemartin/gitsome) - Git/GitHub命令行工具
+ * [git-sweep](https://github.com/arc90/git-sweep) - git命令行工具，帮助你清理已经merge到master的分支
+ * [github-email](https://github.com/paulirish/github-email) - 获取用户的邮箱
+ * [git-smart](https://github.com/geelen/git-smart) 
+ * [git-subtree](https://github.com/apenwarr/git-subtree)
+ * [git-town](https://github.com/Originate/git-town)
+ * [git-fire](https://github.com/qw3rtman/git-fire) - 紧急情况下保存代码
+ * [gitsome](https://github.com/donnemartin/gitsome) - Git/GitHub命令行工具
 
 ####Git平台与工具
  * [git](https://github.com/git/git) - git源码
