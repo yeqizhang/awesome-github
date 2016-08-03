@@ -202,6 +202,7 @@
  * [GitEgo](https://github.com/hrules6872/GitEgo) - Android平台的GitHub客户端
  * [Sources](https://github.com/vulgur/Sources) - 一个极简的 Github 客户端，Sources。内置几十个语法高亮的主题可供选择。
  * [igithub](https://github.com/schacon/igithub) - github 的iPhone端
+* [gitmonitor-ios](https://github.com/theotow/gitmonitor-ios) - 一个通知你不用再push代码的iOS app
 
 ####插件
 
@@ -235,17 +236,34 @@
  * [octo-preview](https://github.com/DrewML/octo-preview) - 谷歌Chrome扩展，预览你评论的markdown内容
  * [GifHub](https://github.com/DrewML/GifHub) - 谷歌Chrome扩展，GifHub一个往GitHub评论里边插入Gif动画的Chrome插件
  * [star-history-plugin](https://github.com/timqian/star-history-plugin) - 查看仓库star历史的插件
+ * [open-on-github](https://github.com/atom/open-on-github) - atom插件，打开文件在github.com
+ * [refined-github](https://github.com/sindresorhus/refined-github) - chrome插件，简化你的github，增加了一些可用的功能
+ * [gitpress](https://github.com/enricob/gitpress) - github的wordpress插件，用于列出用户的仓库
+* [jquery-github](https://github.com/zenorocha/jquery-github) -jquery的插件显示github仓库
+* [sublime-text-git](https://github.com/kemayo/sublime-text-git) - sublime的git插件
+* [git-plugin](https://github.com/jenkinsci/git-plugin) - jenkins的git插件
+* [github-oauth-plugin](https://github.com/jenkinsci/github-oauth-plugin) - jenkins的github oauth登录插件
+* [twitter-for-github](https://github.com/bevacqua/twitter-for-github) - 在github上显示用户twitter的chrome插件
+
+ 
 
 ####命令行
 
+ * [gitflow](https://github.com/nvie/gitflow)
  * [gh](https://github.com/jingweno/gh) -gh 是一个用 Go 语言开发的 Github 命令行客户端。
  * [node-gh](https://github.com/node-gh/gh) -Node GH 是基于 Node.js 编写的 Github 命令行工具。
  * [gitsome](https://github.com/donnemartin/gitsome/) - supercharged Github Client
  * [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - 吐槽别人的烂代码
  * [git-pulls](https://github.com/schacon/git-pulls) - github pull requests的命令后行工具
  * [git-scribe](https://github.com/schacon/git-scribe) - 写电子书的命令行工具
+ * [github-gem](https://github.com/defunkt/github-gem) - github命令行工具
+ * [ghterm](https://github.com/github-archive/ghterm) - github终端
+ * [git-sh](https://github.com/rtomayko/git-sh) - 适合git的bash工作环境
+ * [legit](https://github.com/kennethreitz/legit) - 灵感来自于github for mac的git 命令行工具
+* [git-sweep](https://github.com/arc90/git-sweep) - git命令行工具，帮助你清理已经merge到master的分支
+* [github-email](https://github.com/paulirish/github-email) - 获取用户的邮箱
 
-
+ 
 ####Git平台与工具
  * [git](https://github.com/git/git) - git源码
  * [sourcetree](https://www.atlassian.com/software/sourcetree) - Windows 和Mac OS X 下免费的 Git客户端
@@ -254,7 +272,9 @@
  * [gitlab](https://about.gitlab.com/gitlab-com/) - GitLab 是一个用于仓库管理系统的开源项目，地址在[gitlabhq](https://github.com/gitlabhq/gitlabhq)
  * [git-annex](https://github.com/joeyh/git-annex) - git管理大文件
  * [gitx](https://github.com/pieter/gitx) - Mac平台上的Git GUI客户端
- 
+ * [gity](https://github.com/beheadedmyway/gity) - mac的git客户端
+* [svn2git](https://github.com/nirvdrum/svn2git) - ruby 实现的迁移svn工程到git
+
 
 
 
@@ -284,6 +304,9 @@
  * [MediumArticles](http://www.jianshu.com/p/19d2f3a3b5d8) - 一键收藏至Github
  * [GitHunt](https://github.com/apollostack/GitHunt) - 为你喜欢的仓库投票的项目
  * [githug](https://github.com/Gazler/githug) - 通过游戏的方式来联系Git的命令行工具
+ * [css3-github-buttons](https://github.com/necolas/css3-github-buttons) - 帮助你创建github风格的 button
+ * [git-crypt](https://github.com/AGWA/git-crypt) - git加密
+ * [is-github-down](https://github.com/sindresorhus/is-github-down) - 检查github有没有down机
 
  
 ####库
@@ -314,7 +337,13 @@
  * [pygit2](https://github.com/libgit2/pygit2) - libgit2的python版
  * [git.js](https://github.com/danlucraft/git.js) - git的js实现
  * [nodegit](https://github.com/nodegit/nodegit) - git的node实现
- 
+ * [GitSharp](https://github.com/henon/GitSharp) - .Net实现的git
+ * [erlangit](https://github.com/schacon/erlangit) - erlang 的git实现
+ * [github4j](https://github.com/defunct/github4j) - 一个github 下载的java api
+ * [libgit2sharp](https://github.com/libgit2/libgit2sharp) - .Net实现的git
+
+
+
 ###其他的awesome
 
  * [awesome-github](https://github.com/phillipadsmith/awesome-github) -[phillipadsmith](https://github.com/phillipadsmith)的awesome-github
