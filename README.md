@@ -298,8 +298,8 @@
  * [git-annex](https://github.com/joeyh/git-annex) - git管理大文件
  * [gitx](https://github.com/pieter/gitx) - Mac平台上的Git GUI客户端
  * [gity](https://github.com/beheadedmyway/gity) - mac的git客户端
-* [svn2git](https://github.com/nirvdrum/svn2git) - ruby 实现的迁移svn工程到git
-* [stupidgit](https://github.com/gyim/stupidgit) - python编写的git的跨平台GUI
+ * [svn2git](https://github.com/nirvdrum/svn2git) - ruby 实现的迁移svn工程到git
+ * [stupidgit](https://github.com/gyim/stupidgit) - python编写的git的跨平台GUI
 
 
 
