@@ -53,6 +53,8 @@
  * [《GitHub入门与实践》](https://book.douban.com/subject/26462816/) -本书从Git的基本知识和操作方法入手，详细介绍了GitHub的各种功能，GitHub与其他工具或服务的协作，使用GitHub的开发流程以及如何将GitHub引入到企业中。在讲解GitHub的代表功能Pull Request时，本书专门搭建了供各位读者实践的仓库，邀请各位读者进行Pull Request并共同维护。
  * [从0开始学习 GitHub 系列](http://stormzhang.com/github/2016/05/25/learn-github-from-zero1/) - stormzhang写的GitHub教程
  * [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html) - 本秘籍收录了一些Git和Github非常酷同时又少有人知的功能。
+* [Git 进阶技巧](https://github.com/xhacker/GitProTips/blob/master/zh_CN.md) - 适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读。
+
 
 ####Git使用
 
@@ -244,11 +246,13 @@
 * [git-plugin](https://github.com/jenkinsci/git-plugin) - jenkins的git插件
 * [github-oauth-plugin](https://github.com/jenkinsci/github-oauth-plugin) - jenkins的github oauth登录插件
 * [twitter-for-github](https://github.com/bevacqua/twitter-for-github) - 在github上显示用户twitter的chrome插件
+* [Hudson-GIT-plugin](https://github.com/magnayn/Hudson-GIT-plugin) - Hudson上的GIT插件
+* [git-time-machine](https://github.com/littlebee/git-time-machine) - atom插件查看提交历史
 
  
 
 ####命令行
-
+ * [hub](https://github.com/github/hub) - github官方出品的命令行工具，让你更好地使用github
  * [gitflow](https://github.com/nvie/gitflow)
  * [gh](https://github.com/jingweno/gh) -gh 是一个用 Go 语言开发的 Github 命令行客户端。
  * [node-gh](https://github.com/node-gh/gh) -Node GH 是基于 Node.js 编写的 Github 命令行工具。
@@ -262,7 +266,8 @@
  * [legit](https://github.com/kennethreitz/legit) - 灵感来自于github for mac的git 命令行工具
 * [git-sweep](https://github.com/arc90/git-sweep) - git命令行工具，帮助你清理已经merge到master的分支
 * [github-email](https://github.com/paulirish/github-email) - 获取用户的邮箱
-
+* [git-smart](https://github.com/geelen/git-smart) 
+* [git-subtree](https://github.com/apenwarr/git-subtree)
  
 ####Git平台与工具
  * [git](https://github.com/git/git) - git源码
@@ -274,6 +279,7 @@
  * [gitx](https://github.com/pieter/gitx) - Mac平台上的Git GUI客户端
  * [gity](https://github.com/beheadedmyway/gity) - mac的git客户端
 * [svn2git](https://github.com/nirvdrum/svn2git) - ruby 实现的迁移svn工程到git
+* [stupidgit](https://github.com/gyim/stupidgit) - python编写的git的跨平台GUI
 
 
 
@@ -283,7 +289,7 @@
 
 
 ####项目
-
+ * [resume.github.com](https://github.com/resume/resume.github.com) - 根据用户的github信息生成简历
  * [github-trending](https://github.com/josephyzhou/github-trending) - 记录下GitHub历史上的每日trending
  * [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - 黑色的GitHub网站风格
  * [github-gists](https://github.com/kevva/github-gists) - 拿到一个GitHub用户的所有gist
@@ -349,7 +355,9 @@
  * [awesome-github](https://github.com/phillipadsmith/awesome-github) -[phillipadsmith](https://github.com/phillipadsmith)的awesome-github
  * [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) -GitHub浏览器扩展收集列表
  * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) -一些酷酷的Git和GitHub功能收集
- 
+ * [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - github issue 和 pull request的模版列表
+
+
 ### Contributing
 贡献指引请看 [CONTRIBUTING](CONTRIBUTING.md).
 
