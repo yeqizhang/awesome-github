@@ -76,6 +76,8 @@
  * [git-tips](https://github.com/git-tips/tips) - 最常用的Git的提示和技巧。
  * [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe) - 这个命令行工具通过游戏的方式来练习你的 Git 技能
  * [progit2-zh](https://github.com/progit/progit2-zh) - Pro Git，第二版，简体中文
+ * [git-style-guide](https://github.com/agis-/git-style-guide)- git风格指南
+
 
 ####GitHub Pages
 
@@ -204,7 +206,8 @@
  * [GitEgo](https://github.com/hrules6872/GitEgo) - Android平台的GitHub客户端
  * [Sources](https://github.com/vulgur/Sources) - 一个极简的 Github 客户端，Sources。内置几十个语法高亮的主题可供选择。
  * [igithub](https://github.com/schacon/igithub) - github 的iPhone端
-* [gitmonitor-ios](https://github.com/theotow/gitmonitor-ios) - 一个通知你不用再push代码的iOS app
+ * [gitmonitor-ios](https://github.com/theotow/gitmonitor-ios) - 一个通知你不用再push代码的iOS app
+ * [GithubWidget](https://github.com/Nightonke/GithubWidget) - 轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App。
 
 ####插件
 
@@ -248,6 +251,7 @@
 * [twitter-for-github](https://github.com/bevacqua/twitter-for-github) - 在github上显示用户twitter的chrome插件
 * [Hudson-GIT-plugin](https://github.com/magnayn/Hudson-GIT-plugin) - Hudson上的GIT插件
 * [git-time-machine](https://github.com/littlebee/git-time-machine) - atom插件查看提交历史
+* [GitDiff](https://github.com/johnno1962/GitDiff) - Xcode插件
 
  
 
@@ -268,7 +272,10 @@
 * [github-email](https://github.com/paulirish/github-email) - 获取用户的邮箱
 * [git-smart](https://github.com/geelen/git-smart) 
 * [git-subtree](https://github.com/apenwarr/git-subtree)
- 
+* [git-town](https://github.com/Originate/git-town)
+* [git-fire](https://github.com/qw3rtman/git-fire) - 紧急情况下保存代码
+* [gitsome](https://github.com/donnemartin/gitsome) - Git/GitHub命令行工具
+
 ####Git平台与工具
  * [git](https://github.com/git/git) - git源码
  * [sourcetree](https://www.atlassian.com/software/sourcetree) - Windows 和Mac OS X 下免费的 Git客户端
@@ -313,6 +320,8 @@
  * [css3-github-buttons](https://github.com/necolas/css3-github-buttons) - 帮助你创建github风格的 button
  * [git-crypt](https://github.com/AGWA/git-crypt) - git加密
  * [is-github-down](https://github.com/sindresorhus/is-github-down) - 检查github有没有down机
+ * [miaopull](https://github.com/aquarhead/miaopull) - 自动化pull工具
+ * [go-git](https://github.com/src-d/go-git)- 通过go来从git服务器读取仓库
 
  
 ####库
@@ -347,7 +356,8 @@
  * [erlangit](https://github.com/schacon/erlangit) - erlang 的git实现
  * [github4j](https://github.com/defunct/github4j) - 一个github 下载的java api
  * [libgit2sharp](https://github.com/libgit2/libgit2sharp) - .Net实现的git
-
+ * [Gift](https://github.com/modocache/Gift) - Swift编写的git实现
+ * [SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift编写的git实现
 
 
 ###其他的awesome
@@ -356,6 +366,7 @@
  * [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) -GitHub浏览器扩展收集列表
  * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) -一些酷酷的Git和GitHub功能收集
  * [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - github issue 和 pull request的模版列表
+ * [gitignore](https://github.com/github/gitignore) 各种语言.gitignore模版的列表
 
 
 ### Contributing
