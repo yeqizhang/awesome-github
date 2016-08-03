@@ -38,13 +38,12 @@
  * [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md) - 作为一名开发者，Github上面有很多东西值得关注学习，可是刚刚接触github，怎样一步步学习使用Github？怎样更高效的利用Github？
  * [GotGitHub](http://www.worldhello.net/gotgithub/index.html) - 全面介绍 GitHub 网站的书
  * [GitHub 开发指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-developer-guides/) - 本指南的目的是教会你如何实际运用 Github API，本指南是 GitHub 官方文档 Development Guides 的中文翻译版本。
- * [GitHub Pages 指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-pages-basics/) - 本指南是 GitHub Pages 官网 GitHub Pages Basics 的中文翻译版本。
  * [怎样使用 GitHub？](https://www.zhihu.com/question/20070065) - 知乎问题
  * [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)
  * [gitignore](https://github.com/github/gitignore) - GitHub官方的.gitignore模板集合
  * [GitHub 漫游指南](https://github.com/phodal/github-roam) - phodal的GitHub故事与教程
  * [Github MarkDown语法指南](https://github.com/guodongxiaren/README) - 使用Github必备
- * [git/github guide](http://kbroman.org/github_tutorial/) - 使用Git和GitHub的知道
+ * [git/github guide](http://kbroman.org/github_tutorial/) - 使用Git和GitHub的指导
  * [如何编辑 Wiki](https://github.com/g0v/dev/wiki/%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF-Wiki) - 非常好的GitHub Wiki使用教程
  * [如何在GitHub上为开源项目做贡献？](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github) - 14 小节课教你如何使用 GitHub，并为开源项目做贡献。
  * [GitHub Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial/) - 学习提交你的第一个pr
@@ -59,6 +58,7 @@
  
 ####Git使用
 
+ * [Linus讲解git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Google大会演讲，Linus介绍他创造git的原因，对比了git和svn。
  * [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程！
  * [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 助你入门 git 的简明指南，木有高深内容 ;)
  * [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html) - 来自阮一峰的网络日志，列出了 Git 最常用的命令。
@@ -81,11 +81,14 @@
  * [Git 进阶技巧](https://github.com/xhacker/GitProTips/blob/master/zh_CN.md) - 适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读。
  * [learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - git 指南
  * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md)
-
+ * [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) - 图解git中的最常用命令。如果你稍微理解git的工作原理，这篇文章能够让你理解的更透彻。
+ * [沉浸式学 Git](http://igit.linuxtoy.org/contents.html) - 简洁github教程，每步信息量都不大，可以尝试一下。 
+ 
  
 ####GitHub Pages
 
  * [GitHub Pages 指南](http://jekyllcn.com/) - 官方文档翻译版
+ * [GitHub Pages 指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-pages-basics/) - 本指南是 GitHub Pages 官网 GitHub Pages Basics 的中文翻译版本。
  * [jekyll官方文档中文翻译版](http://jekyllcn.com/) - 将纯文本转换为静态博客网站
  * [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
 ](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html) - 示范如何在github上搭建Blog，你可以从中掌握github的Pages功能，以及Jekyll软件的基本用法。更重要的是，你会体会到一种建立网站的全新思路。
@@ -146,6 +149,12 @@
  * [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html) - 六种开源协议GPL、BSD、MIT、Mozilla、Apache和LGPL之间的区别
  * [如何用好github中的watch、star、fork](http://www.jianshu.com/p/6c366b53ea41) - 介绍watch、star、fork的具体作用
  * [git-commit-guide](https://github.com/bluejava/git-commit-guide) - git commit message 指南
+ * [git操作是不是很难记住？](http://www.jianshu.com/p/e870fdd971fc) - 笔者试着分类git的常用操作，方便同样是刚入门git的你查阅。
+ * [GUI for git|SourceTree|入门基础](http://www.jianshu.com/p/be9f0484af9d) - SourceTree简介
+ * [话说Svn与Git的区别](http://www.jianshu.com/p/bfec042349ca) - SVN的特点是简单，只是需要一个放代码的地方时用是OK的。Git的特点版本控制可以不依赖网络做任何事情，对分支和合并有更好的支持。
+ * [多用Git少交税](http://www.jianshu.com/p/8a985c622e61)
+ * [Git版本控制与工作流](http://www.jianshu.com/p/67afe711c731) - 针对git版本控制和工作流的总结
+ * [在github上写博客](http://www.jianshu.com/p/1260517bbedb) 
 
  
 ###网站
@@ -381,10 +390,11 @@
  * [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) -GitHub浏览器扩展收集列表
  * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) -一些酷酷的Git和GitHub功能收集
  * [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - github issue 和 pull request的模版列表
- * [gitignore](https://github.com/github/gitignore) 各种语言.gitignore模版的列表
  * [awesome-github](https://github.com/Kikobeats/awesome-github)
  * [awesome-jekyll](https://github.com/planetjekyll/awesome-jekyll)
+ * [github pages静态网站集合](https://github.com/jptiancai/jptiancai.github.com)
 
+ 
 ### Contributing
 贡献指引请看 [CONTRIBUTING](CONTRIBUTING.md).
 
