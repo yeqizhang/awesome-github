@@ -79,8 +79,10 @@
  * [progit2-zh](https://github.com/progit/progit2-zh) - Pro Git，第二版，简体中文
  * [git-style-guide](https://github.com/agis-/git-style-guide)- git风格指南
  * [Git 进阶技巧](https://github.com/xhacker/GitProTips/blob/master/zh_CN.md) - 适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读。
+ * [learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - git 指南
+ * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md)
 
-
+ 
 ####GitHub Pages
 
  * [GitHub Pages 指南](http://jekyllcn.com/) - 官方文档翻译版
@@ -88,6 +90,8 @@
  * [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
 ](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html) - 示范如何在github上搭建Blog，你可以从中掌握github的Pages功能，以及Jekyll软件的基本用法。更重要的是，你会体会到一种建立网站的全新思路。
  * [免费使用Jekyll+Github Page搭建博客入门攻略](http://www.cellier.me/2015/01/04/jekyll%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/) - Jekyll建站
+ * [jekyll 学习资料整理](https://github.com/mba811/jekyll-study) - 在学习的同时将内容整理很多相关资料
+ * [jekyll-style-guide](http://ben.balter.com/jekyll-style-guide/) -
  * [hexo你的博客](http://ibruce.info/2013/11/22/hexo-your-blog/) - hexo出自台湾大学生[tommy351](https://twitter.com/tommy351)之手，是一个基于Node.js的静态博客程序，其编译上百篇文字只需要几秒。
  * [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2) - 这是一篇很详尽的独立博客搭建教程，里面介绍了域名注册、DNS设置、github和Hexo设置等过程。
  * [Hexo 中文版](https://hexo.io/zh-cn/) - hexo官网中文版
@@ -100,7 +104,7 @@
  * [Gitbook 入门教程](https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书,且示例全部在windows下展示(其他系统差不多一致):
  * [Git教学](https://kingofamani.gitbooks.io/git-teach/content/index.html) - GIT版本控制
  * [Gitbook 使用入门](https://github.com/wwq0327/gitbook-zh) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书。
-
+ * [api-guide](https://github.com/GitbookIO/api-guide) - gitbook 的api 文档
 
 
 
@@ -113,7 +117,8 @@
 
  * [为 iOS 建立 Travis CI](http://objccn.io/issue-6-5/) -在这篇文章中，我将向你展示如何一步步的在项目中集成 Travis。
  * [Travis Ci的最接底气的中文使用教程](http://www.jianshu.com/p/8308b8f08de9) -Travis Ci的中文文档太少了，于是作者写了一篇简洁的教程
-
+ * [learn-travis](https://github.com/dwyl/learn-travis) - 一个对于node.js开发者快速入门的教程
+ 
 ###文章
 
  * [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html) - 本文尝试谈谈GitHub的文化、技巧与影响
@@ -140,7 +145,9 @@
  * [如果你用GitHub，可以这样提高效率](http://huang-jerryc.com/2016/01/15/%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%94%A8GitHub%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87/) - 基于Github，搭建一整套代码管理服务
  * [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html) - 六种开源协议GPL、BSD、MIT、Mozilla、Apache和LGPL之间的区别
  * [如何用好github中的watch、star、fork](http://www.jianshu.com/p/6c366b53ea41) - 介绍watch、star、fork的具体作用
+ * [git-commit-guide](https://github.com/bluejava/git-commit-guide) - git commit message 指南
 
+ 
 ###网站
 
 ####常用网站
@@ -152,7 +159,7 @@
  * [GitBook](https://www.gitbook.com/) - Github上写书，发布到GitBook
  * [choose a license](http://choosealicense.com/) - GitHub发布了choosealicense.com网站，在呼吁开源项目开发者选择一个许可证的同时，还提供了许可证的一些简要说明。
  * [vmap.phodal.com](https://vmap.phodal.com/) - 基于GitHub的O2O应用，寻找身边的GitHub大牛，根据你填写的公司位置查找
-
+ * [jekyllthemes](https://github.com/mattvh/jekyllthemes) - 一些好看的jekyll主题
  
 ####GitHub Rank
 
@@ -329,7 +336,9 @@
  * [miaopull](https://github.com/aquarhead/miaopull) - 自动化pull工具
  * [go-git](https://github.com/src-d/go-git)- 通过go来从git服务器读取仓库
  * [GitViz](https://github.com/Readify/GitViz) - 帮助你训练git时的可视化工具
- 
+ * [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 学习git的可视化工具
+
+
 ####库
 
  * [octokit](https://github.com/octokit) - GitHub API的官方封装库
@@ -373,7 +382,8 @@
  * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) -一些酷酷的Git和GitHub功能收集
  * [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - github issue 和 pull request的模版列表
  * [gitignore](https://github.com/github/gitignore) 各种语言.gitignore模版的列表
-
+ * [awesome-github](https://github.com/Kikobeats/awesome-github)
+ * [awesome-jekyll](https://github.com/planetjekyll/awesome-jekyll)
 
 ### Contributing
 贡献指引请看 [CONTRIBUTING](CONTRIBUTING.md).
