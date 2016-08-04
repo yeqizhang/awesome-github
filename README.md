@@ -229,6 +229,7 @@
  * [igithub](https://github.com/schacon/igithub) - github 的iPhone端
  * [gitmonitor-ios](https://github.com/theotow/gitmonitor-ios) - 一个通知你不用再push代码的iOS app
  * [GithubWidget](https://github.com/Nightonke/GithubWidget) - 轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App。
+ * [GitPocket](https://github.com/jindulys/GitPocket) - Swift编写GitHub客户端
 
 ####插件
 
@@ -382,6 +383,7 @@
  * [libgit2sharp](https://github.com/libgit2/libgit2sharp) - .Net实现的git
  * [Gift](https://github.com/modocache/Gift) - Swift编写的git实现
  * [SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift编写的git实现
+ * [GithubPilot](https://github.com/jindulys/GithubPilot) - Swift的GitHub API 封装
 
 
 ###其他的awesome
