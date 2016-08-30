@@ -310,7 +310,7 @@
  * [gity](https://github.com/beheadedmyway/gity) - mac的git客户端
  * [svn2git](https://github.com/nirvdrum/svn2git) - ruby 实现的迁移svn工程到git
  * [stupidgit](https://github.com/gyim/stupidgit) - python编写的git的跨平台GUI
-
+ * [GitUp](https://github.com/git-up/GitUp) - Objective-C编写的Mac上的Git客户端
 
 
 
