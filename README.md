@@ -385,7 +385,7 @@
  * [Gift](https://github.com/modocache/Gift) - Swift编写的git实现
  * [SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift编写的git实现
  * [GithubPilot](https://github.com/jindulys/GithubPilot) - Swift的GitHub API 封装
-
+ * [GitYourFeedback](https://github.com/dcaunt/GitYourFeedback) - 让你可以直接在iOS App内feedback时向GitHub提交issue
 
 ###其他的awesome
 
