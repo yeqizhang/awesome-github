@@ -155,7 +155,7 @@
  * [多用Git少交税](http://www.jianshu.com/p/8a985c622e61)
  * [Git版本控制与工作流](http://www.jianshu.com/p/67afe711c731) - 针对git版本控制和工作流的总结
  * [在github上写博客](http://www.jianshu.com/p/1260517bbedb) 
-
+ * [GitHub & Bitbucket & GitLab & Coding 的对比分析](http://blog.flow.ci/github-bitbucket-gitlab-coding)
  
 ###网站
 
