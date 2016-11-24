@@ -231,6 +231,7 @@
  * [gitmonitor-ios](https://github.com/theotow/gitmonitor-ios) - 一个通知你不用再push代码的iOS app
  * [GithubWidget](https://github.com/Nightonke/GithubWidget) - 轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App。
  * [GitPocket](https://github.com/jindulys/GitPocket) - Swift编写GitHub客户端
+ * [GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - 显示你的GitHub Contributions的Today Extension,App Store链接,[Contributions for GitHub](https://itunes.apple.com/us/app/contributions-for-github/id1153432612?l=zh&ls=1&mt=8)
 
 ####插件
 
