@@ -1,4 +1,4 @@
-#[awesome-github](https://github.com/AntBranch/awesome-github)
+# [awesome-github](https://github.com/AntBranch/awesome-github)
 [![Slack](https://antbr.herokuapp.com/badge.svg)](https://antbr.herokuapp.com/) 
 
 收集这个[awesome-github](https://github.com/AntBranch/awesome-github)列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
@@ -28,9 +28,9 @@
 - [其他的awesome](#其他的awesome)
 
 
-###教程
+### 教程
 
-####通用教程
+#### 通用教程
 
  * [《Github 帮助文档》 中文翻译](https://github.com/waylau/github-help) - 包含了官方文档以及其他文章
  * [GitHub Guides](https://guides.github.com/) - 官方的GitHub使用指引
@@ -56,7 +56,7 @@
  * [Git 北京](http://gitbeijing.com/) - 《 Git 北京》是一本带初学者学会 git 版本控制工具和 github.com 社交化编程平台的书。
  * [Github与Git简明教程](https://github.com/lavor-zl/Github-Git) - lavor-zl 编写
  
-####Git使用
+#### Git使用
 
  * [Linus讲解git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Google大会演讲，Linus介绍他创造git的原因，对比了git和svn。
  * [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程！
@@ -85,7 +85,7 @@
  * [沉浸式学 Git](http://igit.linuxtoy.org/contents.html) - 简洁github教程，每步信息量都不大，可以尝试一下。 
  * [工作中常用的Git命令行](https://github.com/DefaultYuan/Git-Pro) - 自己在工作中常用的Git命令行的小总结！
  
-####GitHub Pages
+#### GitHub Pages
 
  * [GitHub Pages 指南](http://jekyllcn.com/) - 官方文档翻译版
  * [GitHub Pages 指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-pages-basics/) - 本指南是 GitHub Pages 官网 GitHub Pages Basics 的中文翻译版本。
@@ -101,7 +101,7 @@
  * [像 geek 一样写博客](http://wiki.jikexueyuan.com/project/github-page/) - 结合了Octopress
 
 
-####GitBook
+#### GitBook
 
  * [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html) - 本教程主要围绕 GitBook 的安装，使用，集成，书籍发布，个性化以及实用插件几个方面。
  * [Gitbook 入门教程](https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书,且示例全部在windows下展示(其他系统差不多一致):
@@ -111,18 +111,18 @@
 
 
 
-####GitHub API
+#### GitHub API
 
  * [How to Use Github’s API with PHP](http://www.sitepoint.com/use-githubs-api-php/) -通过PHP如何使用GitHub API
 
 
-####Travis CI
+#### Travis CI
 
  * [为 iOS 建立 Travis CI](http://objccn.io/issue-6-5/) -在这篇文章中，我将向你展示如何一步步的在项目中集成 Travis。
  * [Travis Ci的最接底气的中文使用教程](http://www.jianshu.com/p/8308b8f08de9) -Travis Ci的中文文档太少了，于是作者写了一篇简洁的教程
  * [learn-travis](https://github.com/dwyl/learn-travis) - 一个对于node.js开发者快速入门的教程
  
-###文章
+### 文章
 
  * [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html) - 本文尝试谈谈GitHub的文化、技巧与影响
  * [GitHub连击500天：让理想的编程成为习惯](https://www.phodal.com/blog/github-500-program-as-usual/) - phodal对于GitHub的看法
@@ -157,9 +157,9 @@
  * [在github上写博客](http://www.jianshu.com/p/1260517bbedb) 
  * [GitHub & Bitbucket & GitLab & Coding 的对比分析](http://blog.flow.ci/github-bitbucket-gitlab-coding)
  
-###网站
+### 网站
 
-####常用网站
+#### 常用网站
 
  * [GitHub Trending](https://github.com/trending) - GitHub官方的仓库和开发者流行榜
  * [GitHuber.info](http://githuber.info/) - 最好用的GitHub人才挖掘工具
@@ -170,7 +170,7 @@
  * [vmap.phodal.com](https://vmap.phodal.com/) - 基于GitHub的O2O应用，寻找身边的GitHub大牛，根据你填写的公司位置查找
  * [jekyllthemes](https://github.com/mattvh/jekyllthemes) - 一些好看的jekyll主题
  
-####GitHub Rank
+#### GitHub Rank
 
  * [GitHub Rank (China)](http://githubrank.com/) - GitHub上中国程序员的排名网站，根据follower
  * [GitHub Ranking | GitHub Awards](http://github-awards.com/) - GitHub上程序员的排名网站，根据star
@@ -178,7 +178,7 @@
  * [diycode - GitHub Ranking](http://www.diycode.cc/trends) - GitHub 全球 Developers, Organizations and Repositories 排行榜
 
 
-####Star管理
+#### Star管理
 
 
  * [My Git Star](http://mygitstar.herokuapp.com/) - My Git Star 是一个开源项目，旨在提供个人 Github Star 管理服务，目前部署在 [Heroku](https://heroku.com/) 之上，由 [@Sidong](https://github.com/Sidong) 维护。
@@ -187,9 +187,9 @@
  * [CODELF](http://unbug.github.io/codelf/) - 基于Google Lovefiled，简洁快速，从开发者角度考虑，用完就走，不给开发者更多的管理负担。开源在GitHub上的链接[unbug/codelf](https://github.com/unbug/codelf)
  * [gitconstellation](http://gitconstellation.com/#/) - GitHub star 管理
 
-###工具
+### 工具
 
-####常用工具
+#### 常用工具
 
  * [http://shields.io/](http://shields.io/) - 开源项目的徽章
  * [Classroom for GitHub](https://github.com/education/classroom) - Classroom for GitHub 可以自动创建代码仓库和访问控制，可以让老师很方便的在 GitHub 上发布代码任务和收集作业。
@@ -204,7 +204,7 @@
  * [boennemann - badges](https://github.com/boennemann/badges) - 各种徽章
  * [GitTorrent](https://github.com/cjb/GitTorrent)
 
-####桌面工具
+#### 桌面工具
 
  * [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具
  * [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - OS X状态栏的APP，帮你记住你在GitHub每天的贡献
@@ -213,7 +213,7 @@
  * [pophub](http://questbe.at/pophub/) - OS X状态栏的APP，显示GitHub 的activities
  * [git-dude](https://github.com/sickill/git-dude) - git commit通知
 
-####App
+#### App
 
  * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - GitBucket iOS App，一个GitHub第三方客户端
  * [Monkey](https://github.com/coderyi/Monkey) - Monkey是一个GitHub第三方iOS客户端，主要是用来展示GitHub上的开发者的排名，以及仓库的排名。
@@ -233,7 +233,7 @@
  * [GitPocket](https://github.com/jindulys/GitPocket) - Swift编写GitHub客户端
  * [GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - 显示你的GitHub Contributions的Today Extension,App Store链接,[Contributions for GitHub](https://itunes.apple.com/us/app/contributions-for-github/id1153432612?l=zh&ls=1&mt=8)
 
-####插件
+#### 插件
 
  * [octotree](https://github.com/buunguyen/octotree) -浏览器扩展，树状格式显示GitHub的代码
  * [octo-linker](https://github.com/octo-linker/chrome-extension) - 这款谷歌 Chrome 扩展允许您轻松地浏览 GitHub.com 上的文件和包。
@@ -280,7 +280,7 @@
 
  
 
-####命令行
+#### 命令行
  * [hub](https://github.com/github/hub) - github官方出品的命令行工具，让你更好地使用github
  * [gitflow](https://github.com/nvie/gitflow)
  * [gh](https://github.com/jingweno/gh) -gh 是一个用 Go 语言开发的 Github 命令行客户端。
@@ -301,7 +301,7 @@
  * [git-fire](https://github.com/qw3rtman/git-fire) - 紧急情况下保存代码
  * [gitsome](https://github.com/donnemartin/gitsome) - Git/GitHub命令行工具
 
-####Git平台与工具
+#### Git平台与工具
  * [git](https://github.com/git/git) - git源码
  * [sourcetree](https://www.atlassian.com/software/sourcetree) - Windows 和Mac OS X 下免费的 Git客户端
  * [gitbucket](https://github.com/gitbucket/gitbucket) - Scala编写的开源Git平台，扩展性好，兼容GitHub
@@ -317,10 +317,10 @@
 
 
 
-###项目
+### 项目
 
 
-####项目
+#### 项目
  * [resume.github.com](https://github.com/resume/resume.github.com) - 根据用户的github信息生成简历
  * [github-trending](https://github.com/josephyzhou/github-trending) - 记录下GitHub历史上的每日trending
  * [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - 黑色的GitHub网站风格
@@ -351,7 +351,7 @@
  * [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 学习git的可视化工具
 
 
-####库
+#### 库
 
  * [octokit](https://github.com/octokit) - GitHub API的官方封装库
  * [GitHub Java API (org.eclipse.egit.github.core)](https://github.com/eclipse/egit-github/tree/master/org.eclipse.egit.github.core) - eclipse出品，Java写的GitHub API的封装库
@@ -388,7 +388,7 @@
  * [GithubPilot](https://github.com/jindulys/GithubPilot) - Swift的GitHub API 封装
  * [GitYourFeedback](https://github.com/gabek/GitYourFeedback) - 让你可以直接在iOS App内feedback时向GitHub提交issue
 
-###其他的awesome
+### 其他的awesome
 
  * [awesome-github](https://github.com/phillipadsmith/awesome-github) -[phillipadsmith](https://github.com/phillipadsmith)的awesome-github
  * [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) -GitHub浏览器扩展收集列表
@@ -404,7 +404,7 @@
 
 
 
-###License
+### License
 ![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
 
