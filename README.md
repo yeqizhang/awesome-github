@@ -212,6 +212,7 @@
  * [ghstatus](https://itunes.apple.com/cn/app/ghstatus/id883585153?mt=12) - OS X状态栏的APP，显示GitHub Status
  * [pophub](http://questbe.at/pophub/) - OS X状态栏的APP，显示GitHub 的activities
  * [git-dude](https://github.com/sickill/git-dude) - git commit通知
+ * [gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github 漂亮的GitHub数据统计工具，还有notifications功能
 
 #### App
 
