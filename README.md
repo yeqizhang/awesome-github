@@ -301,6 +301,7 @@
  * [git-town](https://github.com/Originate/git-town)
  * [git-fire](https://github.com/qw3rtman/git-fire) - 紧急情况下保存代码
  * [gitsome](https://github.com/donnemartin/gitsome) - Git/GitHub命令行工具
+ * [maintainer](https://github.com/gaocegege/maintainer) - 让你的 GitHub repo 对开发者更加友好的命令行工具
 
 #### Git平台与工具
  * [git](https://github.com/git/git) - git源码
