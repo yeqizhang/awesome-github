@@ -399,6 +399,7 @@
  * [awesome-github](https://github.com/Kikobeats/awesome-github)
  * [awesome-jekyll](https://github.com/planetjekyll/awesome-jekyll)
  * [github pages静态网站集合](https://github.com/jptiancai/jptiancai.github.com)
+ * [Make timeline in rightside longer](https://github.com/pierreneter/make-color-for-profile-rightside)
 
  
 ### Contributing
