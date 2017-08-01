@@ -203,7 +203,7 @@
  * [https://gitter.im](https://gitter.im) - 专门给GitHub开源项目或者开源作者提供的聊天软件
  * [boennemann - badges](https://github.com/boennemann/badges) - 各种徽章
  * [GitTorrent](https://github.com/cjb/GitTorrent)
-
+ * [Insight.io](https://juejin.im/entry/597025d9518825419f7b65ba) - 一款Chrome浏览器插件(可能是迄今为止最好的 GitHub 代码浏览插件)
 #### 桌面工具
 
  * [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具
